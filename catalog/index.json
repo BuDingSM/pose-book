@@ -1,0 +1,37 @@
+[
+ {
+  "type": "animal",
+  "count": 100,
+  "file": "animal.json"
+ },
+ {
+  "type": "costume",
+  "count": 484,
+  "file": "costume.json"
+ },
+ {
+  "type": "furniture",
+  "count": 41,
+  "file": "furniture.json"
+ },
+ {
+  "type": "light",
+  "count": 50,
+  "file": "light.json"
+ },
+ {
+  "type": "pose",
+  "count": 280,
+  "file": "pose.json"
+ },
+ {
+  "type": "prop",
+  "count": 32,
+  "file": "prop.json"
+ },
+ {
+  "type": "scene",
+  "count": 64,
+  "file": "scene.json"
+ }
+]
