@@ -33,5 +33,10 @@
   "type": "scene",
   "count": 64,
   "file": "scene.json"
+ },
+ {
+  "type": "character",
+  "count": 893,
+  "file": "character.json"
  }
 ]
