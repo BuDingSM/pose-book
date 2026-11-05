@@ -27,19 +27,23 @@ index = []
 for row in con.execute("SELECT DISTINCT type FROM items ORDER BY type"):
     t = row["type"]
     items = []
-    for it in con.execute("SELECT * FROM items WHERE type = ? ORDER BY id", (t,)):
+    for it in con.execute("SELECT * FROM items WHERE type = ? ORDER BY source, id", (t,)):
         item = {
             "id": it["id"],
             "type": it["type"],
             "name": it["name_zh"],
             "names": {"en": it["name_en"], "ja": it["name_ja"], "ko": it["name_ko"]},
             "category": it["category"],
-            "rating": it["rating"],
-            "description": it["description"],
-            "variants": {},
         }
         if it["series"]:
             item["series"] = it["series"]
+        item["rating"] = it["rating"]
+        item["description"] = it["description"]
+        # Match the committed catalogs: character always carries source,
+        # costume carries it only for non-shisei (anime) items.
+        if t == "character" or it["source"] != "shisei":
+            item["source"] = it["source"]
+        item["variants"] = {}
         for a in con.execute(
             "SELECT view, layer, size, path FROM assets WHERE item_id = ?"
             " ORDER BY view, layer, size",
@@ -49,7 +53,8 @@ for row in con.execute("SELECT DISTINCT type FROM items ORDER BY type"):
         items.append(item)
     path = out / f"{t}.json"
     path.write_text(json.dumps(items, ensure_ascii=False, indent=1))
-    index.append({"type": t, "count": len(items), "file": f"{t}.json"})
+    rc = dict(con.execute("SELECT rating, COUNT(*) FROM items WHERE type = ? GROUP BY rating", (t,)).fetchall())
+    index.append({"type": t, "count": len(items), "general": rc.get("general", 0), "suggestive": rc.get("suggestive", 0), "file": f"{t}.json"})
     print(f"{t}.json: {len(items)} items, {path.stat().st_size} bytes")
 
 (out / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1))
