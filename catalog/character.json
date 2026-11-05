@@ -34475,5 +34475,626 @@
     }
    }
   }
+ },
+ {
+  "id": "custom_character_male_001",
+  "type": "character",
+  "name": "男性 · 清爽短发",
+  "names": {
+   "en": "Male · Clean short hair",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "男性人物参考 · 六种风格",
+  "rating": "general",
+  "description": "Clean short hair. Male adult photographic frontal head-and-shoulders portrait, pale blue-gray background. Fictional AI character reference. Preserve face, hairstyle, hair color and skin tone, without adopting the reference pose.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_male_001.png",
+     "w300": "assets/character/custom/thumbs/custom_character_male_001.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_male_002",
+  "type": "character",
+  "name": "男性 · 温柔中分",
+  "names": {
+   "en": "Male · Soft center part",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "男性人物参考 · 六种风格",
+  "rating": "general",
+  "description": "Soft center part. Male adult photographic frontal head-and-shoulders portrait, pale blue-gray background. Fictional AI character reference. Preserve face, hairstyle, hair color and skin tone, without adopting the reference pose.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_male_002.png",
+     "w300": "assets/character/custom/thumbs/custom_character_male_002.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_male_003",
+  "type": "character",
+  "name": "男性 · 硬朗寸头",
+  "names": {
+   "en": "Male · Athletic buzz cut",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "男性人物参考 · 六种风格",
+  "rating": "general",
+  "description": "Athletic buzz cut. Male adult photographic frontal head-and-shoulders portrait, pale blue-gray background. Fictional AI character reference. Preserve face, hairstyle, hair color and skin tone, without adopting the reference pose.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_male_003.png",
+     "w300": "assets/character/custom/thumbs/custom_character_male_003.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_male_004",
+  "type": "character",
+  "name": "男性 · 成熟商务",
+  "names": {
+   "en": "Male · Mature professional",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "男性人物参考 · 六种风格",
+  "rating": "general",
+  "description": "Mature professional. Male adult photographic frontal head-and-shoulders portrait, pale blue-gray background. Fictional AI character reference. Preserve face, hairstyle, hair color and skin tone, without adopting the reference pose.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_male_004.png",
+     "w300": "assets/character/custom/thumbs/custom_character_male_004.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_male_005",
+  "type": "character",
+  "name": "男性 · 卷发文艺",
+  "names": {
+   "en": "Male · Creative soft curls",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "男性人物参考 · 六种风格",
+  "rating": "general",
+  "description": "Creative soft curls. Male adult photographic frontal head-and-shoulders portrait, pale blue-gray background. Fictional AI character reference. Preserve face, hairstyle, hair color and skin tone, without adopting the reference pose.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_male_005.png",
+     "w300": "assets/character/custom/thumbs/custom_character_male_005.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_male_006",
+  "type": "character",
+  "name": "男性 · 长发冷感",
+  "names": {
+   "en": "Male · Long hair, calm presence",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "男性人物参考 · 六种风格",
+  "rating": "general",
+  "description": "Long hair, calm presence. Male adult photographic frontal head-and-shoulders portrait, pale blue-gray background. Fictional AI character reference. Preserve face, hairstyle, hair color and skin tone, without adopting the reference pose.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_male_006.png",
+     "w300": "assets/character/custom/thumbs/custom_character_male_006.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_au_female",
+  "type": "character",
+  "name": "澳大利亚 · 女性人像",
+  "names": {
+   "en": "Australia · Female portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "Australia Female adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. honey-blonde shoulder-length beach-like loose waves, relaxed side part; blue eyes; light sun-kissed beige skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_au_female.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_au_female.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_au_male",
+  "type": "character",
+  "name": "澳大利亚 · 男性人像",
+  "names": {
+   "en": "Australia · Male portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "Australia Male adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. short golden-brown slightly tousled hair; green-blue eyes; light sun-kissed beige skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_au_male.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_au_male.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_br_female",
+  "type": "character",
+  "name": "巴西 · 女性人像",
+  "names": {
+   "en": "Brazil · Female portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "Brazil Female adult age 20, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. radiant rounded-oval face, strong cheekbones, soft full cheeks and rounded chin; large warm amber-brown almond eyes, thick naturally curved brows, graceful rounded nose, plush lips; luxurious long deep-brown spiral curls, defined side part; a small right-cheek dimple visible in a subtle smile Fictional adult. Age 20 is a generation setting, not an age verified from appearance. Editorial country grouping only. Preserve the distinctive face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_br_female.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_br_female.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_br_male",
+  "type": "character",
+  "name": "巴西 · 男性人像",
+  "names": {
+   "en": "Brazil · Male portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "Brazil Male adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. short dark-brown tight curls with a low taper; brown eyes; medium golden-brown skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_br_male.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_br_male.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_ca_female",
+  "type": "character",
+  "name": "加拿大 · 女性人像",
+  "names": {
+   "en": "Canada · Female portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "Canada Female adult age 20, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. polished oval face with luminous cheekbones, soft jaw and small rounded chin; clear icy blue-grey eyes, light defined brows, compact straight nose, softly full lips; expensive golden-blonde shoulder-length waves, polished side part; fine natural freckles across the bridge of the nose Fictional adult. Age 20 is a generation setting, not an age verified from appearance. Editorial country grouping only. Preserve the distinctive face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_ca_female.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_ca_female.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_ca_male",
+  "type": "character",
+  "name": "加拿大 · 男性人像",
+  "names": {
+   "en": "Canada · Male portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "Canada Male adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. short sandy-blonde hair, textured swept-back top; blue-grey eyes; fair peach skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_ca_male.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_ca_male.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_de_female",
+  "type": "character",
+  "name": "德国 · 女性人像",
+  "names": {
+   "en": "Germany · Female portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "Germany Female adult age 20, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. long symmetrical oval face, high forehead, clean jawline and defined chin; pale grey-green hooded eyes, straight pale brows, long refined nose, elegant medium lips; ash-blonde shoulder-length waves, sleek center part, one side tucked behind ear; no freckles or moles; minimal restrained expression Fictional adult. Age 20 is a generation setting, not an age verified from appearance. Editorial country grouping only. Preserve the distinctive face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_de_female.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_de_female.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_de_male",
+  "type": "character",
+  "name": "德国 · 男性人像",
+  "names": {
+   "en": "Germany · Male portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "Germany Male adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. short ash-blonde hair, neat textured crop; grey-green eyes; fair neutral skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_de_male.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_de_male.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_fr_female",
+  "type": "character",
+  "name": "法国 · 女性人像",
+  "names": {
+   "en": "France · Female portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "France Female adult age 20, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. sculpted heart-shaped face with elegant high cheekbones and a refined tapered jaw; clear green-hazel almond eyes with softly lifted outer corners, precise dark brows, straight narrow nose, balanced full lips; glossy chestnut-brown shoulder-length waves, precise side part; one tiny understated beauty mark below the left eye Fictional adult. Age 20 is a generation setting, not an age verified from appearance. Editorial country grouping only. Preserve the distinctive face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_fr_female.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_fr_female.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_fr_male",
+  "type": "character",
+  "name": "法国 · 男性人像",
+  "names": {
+   "en": "France · Male portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "France Male adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. short dark-chestnut hair with a natural textured side part; hazel eyes; light warm beige skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_fr_male.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_fr_male.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_in_female",
+  "type": "character",
+  "name": "印度 · 女性人像",
+  "names": {
+   "en": "India · Female portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "India Female adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. long black wavy hair, slightly off-center part; dark brown eyes; medium-deep warm brown skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_in_female.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_in_female.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_in_male",
+  "type": "character",
+  "name": "印度 · 男性人像",
+  "names": {
+   "en": "India · Male portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "India Male adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. short black thick wavy hair, brushed loosely upward; dark brown eyes; medium-deep warm brown skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_in_male.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_in_male.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_jp_female",
+  "type": "character",
+  "name": "日本 · 女性人像",
+  "names": {
+   "en": "Japan · Female portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "Japan Female adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. straight dark-brown chin-length bob with light wispy bangs; dark brown eyes; light neutral beige skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_jp_female.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_jp_female.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_jp_male",
+  "type": "character",
+  "name": "日本 · 男性人像",
+  "names": {
+   "en": "Japan · Male portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "Japan Male adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. straight black short layered hair with a relaxed curtain fringe; dark brown eyes; light neutral beige skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_jp_male.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_jp_male.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_kr_female",
+  "type": "character",
+  "name": "韩国 · 女性人像",
+  "names": {
+   "en": "South Korea · Female portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "South Korea Female adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. long straight glossy black hair, off-center part, no heavy fringe; dark brown eyes; light cool-neutral beige skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_kr_female.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_kr_female.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_ru_female",
+  "type": "character",
+  "name": "俄罗斯 · 女性人像",
+  "names": {
+   "en": "Russia · Female portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "Russia Female adult age 20, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. high-fashion narrow heart-shaped face, high cheekbones, sharp but natural jaw and pointed chin; pale blue-grey elongated eyes, lifted outer corners, sculpted brows, narrow straight nose, defined lips; long cool medium-brown waves, polished center part; one tiny light beauty mark near the right lower jaw Fictional adult. Age 20 is a generation setting, not an age verified from appearance. Editorial country grouping only. Preserve the distinctive face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_ru_female.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_ru_female.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_ru_male",
+  "type": "character",
+  "name": "俄罗斯 · 男性人像",
+  "names": {
+   "en": "Russia · Male portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "Russia Male adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. short medium-brown hair with a subtle side part; grey-blue eyes; fair cool-neutral skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_ru_male.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_ru_male.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_uk_female",
+  "type": "character",
+  "name": "英国 · 女性人像",
+  "names": {
+   "en": "UK · Female portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "UK Female adult age 20, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. short elegant soft-square face, clear jawline and rounded chin; green-hazel eyes with a delicate outer lift, thick groomed brows, neat slightly broad nose, wide refined smile; dark-blonde shoulder-length waves with airy curtain fringe; a few precise freckles across the nose only Fictional adult. Age 20 is a generation setting, not an age verified from appearance. Editorial country grouping only. Preserve the distinctive face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_uk_female.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_uk_female.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_uk_male",
+  "type": "character",
+  "name": "英国 · 男性人像",
+  "names": {
+   "en": "UK · Male portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "UK Male adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. short dark-blonde hair, naturally textured side part; green-hazel eyes; fair rosy skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_uk_male.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_uk_male.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_us_female",
+  "type": "character",
+  "name": "美国 · 女性人像",
+  "names": {
+   "en": "USA · Female portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "USA Female adult age 20, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. strong editorial oval-square face, defined jaw, broad cheekbones and long elegant neck; deep dark-brown almond eyes, bold straight brows, clean medium nose, full sculpted lips; long espresso-brown loose waves, sleek center part; one tiny subtle mole near the right jaw Fictional adult. Age 20 is a generation setting, not an age verified from appearance. Editorial country grouping only. Preserve the distinctive face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_us_female.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_us_female.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_region_us_male",
+  "type": "character",
+  "name": "美国 · 男性人像",
+  "names": {
+   "en": "USA · Male portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "人脸",
+  "series": "多地区人物参考 · 21 张",
+  "rating": "general",
+  "description": "USA Male adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. short dark-brown wavy hair, clean tapered sides; brown eyes; medium warm tan skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_region_us_male.png",
+     "w300": "assets/character/custom/thumbs/custom_character_region_us_male.webp"
+    }
+   }
+  }
  }
 ]
