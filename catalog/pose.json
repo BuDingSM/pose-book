@@ -1,5 +1,1369 @@
 [
  {
+  "id": "custom_pose_extracted_20261103_02",
+  "type": "pose",
+  "name": "双手置胯微侧身",
+  "names": {
+   "en": "Hands at hips with slight turn",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性站姿",
+  "series": "std",
+  "rating": "general",
+  "description": "Male hands at hips with slight turn, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_02_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_02_above.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_02_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_02_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_02_below.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_02_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_02_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_02_diag.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_02_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_02_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_02_front.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_02_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_02_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_02_side.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_02_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_extracted_20261103_03",
+  "type": "pose",
+  "name": "转头双手扶腰",
+  "names": {
+   "en": "Head turn with hands at waist",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性站姿",
+  "series": "std",
+  "rating": "general",
+  "description": "Male head turn with hands at waist, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_03_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_03_above.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_03_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_03_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_03_below.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_03_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_03_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_03_diag.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_03_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_03_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_03_front.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_03_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_03_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_03_side.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_03_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_extracted_20261103_04",
+  "type": "pose",
+  "name": "单手扶髋重心侧移",
+  "names": {
+   "en": "One hand on hip with weight shift",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性站姿",
+  "series": "std",
+  "rating": "general",
+  "description": "Male one hand on hip with weight shift, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_04_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_04_above.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_04_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_04_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_04_below.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_04_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_04_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_04_diag.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_04_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_04_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_04_front.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_04_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_04_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_04_side.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_04_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_extracted_20261103_05",
+  "type": "pose",
+  "name": "抬臂扶头放松站姿",
+  "names": {
+   "en": "Raised arm touching head",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性站姿",
+  "series": "std",
+  "rating": "general",
+  "description": "Male raised arm touching head, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_05_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_05_above.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_05_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_05_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_05_below.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_05_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_05_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_05_diag.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_05_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_05_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_05_front.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_05_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_05_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_05_side.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_05_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_extracted_20261103_06",
+  "type": "pose",
+  "name": "倚靠交叉腿",
+  "names": {
+   "en": "Leaning with crossed legs",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性站姿",
+  "series": "std",
+  "rating": "general",
+  "description": "Male leaning with crossed legs, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_06_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_06_above.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_06_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_06_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_06_below.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_06_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_06_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_06_diag.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_06_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_06_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_06_front.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_06_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_06_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_06_side.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_06_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_extracted_20261103_07",
+  "type": "pose",
+  "name": "腹前交叠双手",
+  "names": {
+   "en": "Overlapping hands before abdomen",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性站姿",
+  "series": "std",
+  "rating": "general",
+  "description": "Male overlapping hands before abdomen, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_07_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_07_above.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_07_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_07_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_07_below.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_07_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_07_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_07_diag.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_07_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_07_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_07_front.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_07_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_07_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_07_side.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_07_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_extracted_20261103_08",
+  "type": "pose",
+  "name": "双手置胯自然站姿",
+  "names": {
+   "en": "Relaxed stance with hands at hips",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性站姿",
+  "series": "std",
+  "rating": "general",
+  "description": "Male relaxed stance with hands at hips, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_08_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_08_above.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_08_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_08_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_08_below.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_08_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_08_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_08_diag.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_08_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_08_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_08_front.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_08_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_08_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_08_side.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_08_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_extracted_20261103_09",
+  "type": "pose",
+  "name": "双手背后侧倾",
+  "names": {
+   "en": "Hands behind with lateral lean",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性站姿",
+  "series": "std",
+  "rating": "general",
+  "description": "Male hands behind with lateral lean, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_09_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_09_above.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_09_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_09_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_09_below.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_09_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_09_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_09_diag.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_09_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_09_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_09_front.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_09_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_extracted_20261103_09_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_extracted_20261103_09_side.webp",
+     "w900": "assets/line/w900/custom_pose_extracted_20261103_09_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_male_001",
+  "type": "pose",
+  "name": "男性 · 自然站立",
+  "names": {
+   "en": "Male · Neutral standing",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性站姿",
+  "series": "std",
+  "rating": "general",
+  "description": "Male neutral standing, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_001_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_001_above.webp",
+     "w900": "assets/line/w900/custom_pose_male_001_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_001_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_001_below.webp",
+     "w900": "assets/line/w900/custom_pose_male_001_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_001_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_001_diag.webp",
+     "w900": "assets/line/w900/custom_pose_male_001_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_001_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_001_front.webp",
+     "w900": "assets/line/w900/custom_pose_male_001_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_001_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_001_side.webp",
+     "w900": "assets/line/w900/custom_pose_male_001_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_male_002",
+  "type": "pose",
+  "name": "男性 · 行走",
+  "names": {
+   "en": "Male · Walking",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性行走与跑步",
+  "series": "std",
+  "rating": "general",
+  "description": "Male walking, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_002_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_002_above.webp",
+     "w900": "assets/line/w900/custom_pose_male_002_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_002_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_002_below.webp",
+     "w900": "assets/line/w900/custom_pose_male_002_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_002_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_002_diag.webp",
+     "w900": "assets/line/w900/custom_pose_male_002_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_002_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_002_front.webp",
+     "w900": "assets/line/w900/custom_pose_male_002_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_002_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_002_side.webp",
+     "w900": "assets/line/w900/custom_pose_male_002_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_male_003",
+  "type": "pose",
+  "name": "男性 · 跑步",
+  "names": {
+   "en": "Male · Running",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性行走与跑步",
+  "series": "std",
+  "rating": "general",
+  "description": "Male running, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_003_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_003_above.webp",
+     "w900": "assets/line/w900/custom_pose_male_003_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_003_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_003_below.webp",
+     "w900": "assets/line/w900/custom_pose_male_003_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_003_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_003_diag.webp",
+     "w900": "assets/line/w900/custom_pose_male_003_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_003_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_003_front.webp",
+     "w900": "assets/line/w900/custom_pose_male_003_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_003_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_003_side.webp",
+     "w900": "assets/line/w900/custom_pose_male_003_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_male_004",
+  "type": "pose",
+  "name": "男性 · 坐椅",
+  "names": {
+   "en": "Male · Seated on chair",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性坐姿",
+  "series": "std",
+  "rating": "general",
+  "description": "Male seated on chair, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_004_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_004_above.webp",
+     "w900": "assets/line/w900/custom_pose_male_004_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_004_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_004_below.webp",
+     "w900": "assets/line/w900/custom_pose_male_004_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_004_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_004_diag.webp",
+     "w900": "assets/line/w900/custom_pose_male_004_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_004_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_004_front.webp",
+     "w900": "assets/line/w900/custom_pose_male_004_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_004_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_004_side.webp",
+     "w900": "assets/line/w900/custom_pose_male_004_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_male_005",
+  "type": "pose",
+  "name": "男性 · 盘坐",
+  "names": {
+   "en": "Male · Cross-legged sitting",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性坐姿",
+  "series": "std",
+  "rating": "general",
+  "description": "Male cross-legged sitting, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_005_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_005_above.webp",
+     "w900": "assets/line/w900/custom_pose_male_005_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_005_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_005_below.webp",
+     "w900": "assets/line/w900/custom_pose_male_005_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_005_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_005_diag.webp",
+     "w900": "assets/line/w900/custom_pose_male_005_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_005_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_005_front.webp",
+     "w900": "assets/line/w900/custom_pose_male_005_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_005_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_005_side.webp",
+     "w900": "assets/line/w900/custom_pose_male_005_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_male_006",
+  "type": "pose",
+  "name": "男性 · 深蹲",
+  "names": {
+   "en": "Male · Deep squat",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性蹲姿",
+  "series": "std",
+  "rating": "general",
+  "description": "Male deep squat, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_006_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_006_above.webp",
+     "w900": "assets/line/w900/custom_pose_male_006_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_006_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_006_below.webp",
+     "w900": "assets/line/w900/custom_pose_male_006_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_006_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_006_diag.webp",
+     "w900": "assets/line/w900/custom_pose_male_006_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_006_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_006_front.webp",
+     "w900": "assets/line/w900/custom_pose_male_006_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_006_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_006_side.webp",
+     "w900": "assets/line/w900/custom_pose_male_006_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_male_007",
+  "type": "pose",
+  "name": "男性 · 双膝跪坐",
+  "names": {
+   "en": "Male · Kneeling on heels",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性跪立",
+  "series": "std",
+  "rating": "general",
+  "description": "Male kneeling on heels, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_007_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_007_above.webp",
+     "w900": "assets/line/w900/custom_pose_male_007_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_007_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_007_below.webp",
+     "w900": "assets/line/w900/custom_pose_male_007_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_007_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_007_diag.webp",
+     "w900": "assets/line/w900/custom_pose_male_007_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_007_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_007_front.webp",
+     "w900": "assets/line/w900/custom_pose_male_007_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_007_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_007_side.webp",
+     "w900": "assets/line/w900/custom_pose_male_007_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_male_008",
+  "type": "pose",
+  "name": "男性 · 单膝跪地",
+  "names": {
+   "en": "Male · Half kneeling",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性跪立",
+  "series": "std",
+  "rating": "general",
+  "description": "Male half kneeling, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_008_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_008_above.webp",
+     "w900": "assets/line/w900/custom_pose_male_008_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_008_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_008_below.webp",
+     "w900": "assets/line/w900/custom_pose_male_008_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_008_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_008_diag.webp",
+     "w900": "assets/line/w900/custom_pose_male_008_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_008_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_008_front.webp",
+     "w900": "assets/line/w900/custom_pose_male_008_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_008_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_008_side.webp",
+     "w900": "assets/line/w900/custom_pose_male_008_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_male_009",
+  "type": "pose",
+  "name": "男性 · 弓步",
+  "names": {
+   "en": "Male · Forward lunge",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性站姿",
+  "series": "std",
+  "rating": "general",
+  "description": "Male forward lunge, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_009_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_009_above.webp",
+     "w900": "assets/line/w900/custom_pose_male_009_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_009_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_009_below.webp",
+     "w900": "assets/line/w900/custom_pose_male_009_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_009_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_009_diag.webp",
+     "w900": "assets/line/w900/custom_pose_male_009_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_009_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_009_front.webp",
+     "w900": "assets/line/w900/custom_pose_male_009_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_009_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_009_side.webp",
+     "w900": "assets/line/w900/custom_pose_male_009_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_male_010",
+  "type": "pose",
+  "name": "男性 · 双手 V 字",
+  "names": {
+   "en": "Male · Double peace sign",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性手势",
+  "series": "std",
+  "rating": "general",
+  "description": "Male double peace sign, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_010_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_010_above.webp",
+     "w900": "assets/line/w900/custom_pose_male_010_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_010_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_010_below.webp",
+     "w900": "assets/line/w900/custom_pose_male_010_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_010_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_010_diag.webp",
+     "w900": "assets/line/w900/custom_pose_male_010_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_010_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_010_front.webp",
+     "w900": "assets/line/w900/custom_pose_male_010_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_010_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_010_side.webp",
+     "w900": "assets/line/w900/custom_pose_male_010_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_male_011",
+  "type": "pose",
+  "name": "男性 · 腰前合手站姿",
+  "names": {
+   "en": "Male · Standing with hands at waist",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性站姿",
+  "series": "std",
+  "rating": "general",
+  "description": "Male standing with hands at waist, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_011_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_011_above.webp",
+     "w900": "assets/line/w900/custom_pose_male_011_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_011_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_011_below.webp",
+     "w900": "assets/line/w900/custom_pose_male_011_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_011_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_011_diag.webp",
+     "w900": "assets/line/w900/custom_pose_male_011_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_011_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_011_front.webp",
+     "w900": "assets/line/w900/custom_pose_male_011_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_011_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_011_side.webp",
+     "w900": "assets/line/w900/custom_pose_male_011_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_male_012",
+  "type": "pose",
+  "name": "男性 · 转头扶髋站姿",
+  "names": {
+   "en": "Male · Head turned with hands at hips",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性站姿",
+  "series": "std",
+  "rating": "general",
+  "description": "Male head turned with hands at hips, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_012_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_012_above.webp",
+     "w900": "assets/line/w900/custom_pose_male_012_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_012_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_012_below.webp",
+     "w900": "assets/line/w900/custom_pose_male_012_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_012_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_012_diag.webp",
+     "w900": "assets/line/w900/custom_pose_male_012_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_012_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_012_front.webp",
+     "w900": "assets/line/w900/custom_pose_male_012_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_012_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_012_side.webp",
+     "w900": "assets/line/w900/custom_pose_male_012_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_male_013",
+  "type": "pose",
+  "name": "男性 · 单手扶髋持书",
+  "names": {
+   "en": "Male · One hand at hip, holding a book",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性站姿",
+  "series": "std",
+  "rating": "general",
+  "description": "Male one hand at hip, holding a book, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_013_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_013_above.webp",
+     "w900": "assets/line/w900/custom_pose_male_013_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_013_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_013_below.webp",
+     "w900": "assets/line/w900/custom_pose_male_013_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_013_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_013_diag.webp",
+     "w900": "assets/line/w900/custom_pose_male_013_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_013_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_013_front.webp",
+     "w900": "assets/line/w900/custom_pose_male_013_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_013_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_013_side.webp",
+     "w900": "assets/line/w900/custom_pose_male_013_side.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_pose_male_streetwear_20261104",
+  "type": "pose",
+  "name": "男性坐姿 · 抬膝垂手",
+  "names": {
+   "en": "Male seated · Raised knee and relaxed hands",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性坐姿",
+  "series": "std",
+  "rating": "general",
+  "description": "Male male seated · Raised knee and relaxed hands, full-body reference pose",
+  "source": "custom",
+  "variants": {
+   "above": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_streetwear_20261104_above.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_streetwear_20261104_above.webp",
+     "w900": "assets/line/w900/custom_pose_male_streetwear_20261104_above.webp"
+    }
+   },
+   "below": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_streetwear_20261104_below.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_streetwear_20261104_below.webp",
+     "w900": "assets/line/w900/custom_pose_male_streetwear_20261104_below.webp"
+    }
+   },
+   "diag": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_streetwear_20261104_diag.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_streetwear_20261104_diag.webp",
+     "w900": "assets/line/w900/custom_pose_male_streetwear_20261104_diag.webp"
+    }
+   },
+   "front": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_streetwear_20261104_front.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_streetwear_20261104_front.webp",
+     "w900": "assets/line/w900/custom_pose_male_streetwear_20261104_front.webp"
+    }
+   },
+   "side": {
+    "depth": {
+     "w900": "assets/depth/w900/custom_pose_male_streetwear_20261104_side.webp"
+    },
+    "line": {
+     "w300": "assets/line/w300/custom_pose_male_streetwear_20261104_side.webp",
+     "w900": "assets/line/w900/custom_pose_male_streetwear_20261104_side.webp"
+    }
+   }
+  }
+ },
+ {
   "id": "D001",
   "type": "pose",
   "name": "面对面抬起一膝",
@@ -9,6 +1373,7 @@
    "ko": "마주 보고 한쪽 무릎 들기"
   },
   "category": "站立",
+  "series": "duo",
   "rating": "general",
   "description": "two figures standing face to face close together, one with her knee raised and bent against the other's thigh, arms around each other's waists",
   "variants": {
@@ -78,8 +1443,7 @@
      "w900": "assets/normal/w900/duo_D001_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D002",
@@ -91,6 +1455,7 @@
    "ko": "상대 발치에 엎드리기"
   },
   "category": "贴脸系",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the male figure standing with legs spread wide, the female figure lying face down on the floor between his feet",
   "variants": {
@@ -136,8 +1501,7 @@
      "w900": "assets/normal/w900/duo_D002_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D003",
@@ -149,6 +1513,7 @@
    "ko": "발목 잡고 다리 V자"
   },
   "category": "正对卧位",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure lying on her back with both legs raised vertically, the male figure standing beside her holding one of her ankles",
   "variants": {
@@ -218,8 +1583,7 @@
      "w900": "assets/normal/w900/duo_D003_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D004",
@@ -231,6 +1595,7 @@
    "ko": "다리 어깨에 얹고 덮기"
   },
   "category": "正对卧位",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure lying on her back with both legs raised and resting over the shoulders of the male figure, who kneels over her facing her",
   "variants": {
@@ -240,8 +1605,7 @@
      "w900": "assets/line/w900/duo_D004_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D005",
@@ -253,6 +1617,7 @@
    "ko": "허리 높이 들고 얼굴 가까이"
   },
   "category": "贴脸系",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the male figure kneeling and lifting the female figure's hips high, her legs raised up on either side of his head, her upper body resting on the floor",
   "variants": {
@@ -331,8 +1696,7 @@
      "w900": "assets/normal/w900/duo_D005_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D006",
@@ -344,6 +1708,7 @@
    "ko": "거꾸로 들어올려 엇갈리기"
   },
   "category": "贴脸系",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure upside down with her head near the floor and her legs raised in a V, supported from behind by the standing male figure holding her hips",
   "variants": {
@@ -407,8 +1772,7 @@
      "w900": "assets/normal/w900/duo_D006_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D007",
@@ -420,6 +1784,7 @@
    "ko": "무릎에 손·숙여 서기"
   },
   "category": "前后位置",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure bent forward at the waist with her hands on her knees, the male figure standing directly behind her with his hands on her hips",
   "variants": {
@@ -474,8 +1839,7 @@
      "w900": "assets/normal/w900/duo_D007_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D008",
@@ -487,6 +1851,7 @@
    "ko": "앉아 다리 얽어 팔 당기기"
   },
   "category": "坐姿",
+  "series": "duo",
   "rating": "suggestive",
   "description": "both figures seated on the floor side by side facing the same direction, legs intertwined, pulling each other's arms",
   "variants": {
@@ -547,8 +1912,7 @@
      "w900": "assets/normal/w900/duo_D008_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D009",
@@ -560,6 +1924,7 @@
    "ko": "뒤에서 안아 무릎에 앉히기"
   },
   "category": "背向坐",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the male figure seated with legs apart, the female figure seated on his lap facing forward, his arms around her from behind",
   "variants": {
@@ -614,8 +1979,7 @@
      "w900": "assets/line/w900/duo_D009_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D010",
@@ -627,6 +1991,7 @@
    "ko": "무릎 위 옆으로 앉아 안기기"
   },
   "category": "背向坐",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the male figure seated, the female figure seated sideways across his lap, his arms wrapped around her",
   "variants": {
@@ -690,8 +2055,7 @@
      "w900": "assets/normal/w900/duo_D010_front.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D011",
@@ -703,6 +2067,7 @@
    "ko": "다리 뻗고 겹치기"
   },
   "category": "正对卧位",
+  "series": "duo",
   "rating": "suggestive",
   "description": "both figures lying face down overlapping in a line, the male figure lying over the female figure from behind, both with legs extended straight",
   "variants": {
@@ -739,8 +2104,7 @@
      "w900": "assets/line/w900/duo_D011_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D012",
@@ -752,6 +2116,7 @@
    "ko": "네발 기기 뒤 무릎 서기"
   },
   "category": "前后位置",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure on all fours, the male figure kneeling upright directly behind her",
   "variants": {
@@ -821,8 +2186,7 @@
      "w900": "assets/normal/w900/duo_D012_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D013",
@@ -834,6 +2198,7 @@
    "ko": "손 짚고 다리 들어올리기"
   },
   "category": "前后位置",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure in a low crouch with both hands on the floor, the standing male figure behind her holding one of her raised legs",
   "variants": {
@@ -876,8 +2241,7 @@
      "w900": "assets/line/w900/duo_D013_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D015",
@@ -889,6 +2253,7 @@
    "ko": "다리 맡기고 무릎에 기대기"
   },
   "category": "背向坐",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure reclining with her legs draped over the seated male figure's lap, leaning back against him",
   "variants": {
@@ -931,8 +2296,7 @@
      "w900": "assets/normal/w900/duo_D015_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D017",
@@ -944,6 +2308,7 @@
    "ko": "등 돌려 허리에 앉기"
   },
   "category": "坐在上方",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the male figure lying on his back with knees bent, the female figure seated on his hips facing away from him toward his feet",
   "variants": {
@@ -1013,8 +2378,7 @@
      "w900": "assets/normal/w900/duo_D017_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D019",
@@ -1026,6 +2390,7 @@
    "ko": "옆으로 누워 한 다리 어깨에"
   },
   "category": "侧卧",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure lying on her side with one leg raised and resting on the shoulder of the male figure, who kneels beside her",
   "variants": {
@@ -1065,8 +2430,7 @@
      "w900": "assets/line/w900/duo_D019_front.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D020",
@@ -1078,6 +2442,7 @@
    "ko": "위에 겹쳐 다리 뻗기"
   },
   "category": "坐在上方",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the male figure lying on his back, the female figure lying stretched out on top of him face down, both with legs extended straight",
   "variants": {
@@ -1108,8 +2473,7 @@
      "w900": "assets/line/w900/duo_D020_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D021",
@@ -1121,6 +2485,7 @@
    "ko": "손목 머리 위 교차·무릎 안기"
   },
   "category": "正对卧位",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure lying on her back with both wrists crossed above her head and knees drawn up, the male figure kneeling over her",
   "variants": {
@@ -1184,8 +2549,7 @@
      "w900": "assets/normal/w900/duo_D021_front.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D023",
@@ -1197,6 +2561,7 @@
    "ko": "무릎으로 허리 들기·누운 자세"
   },
   "category": "正对卧位",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure lying on her back, the male figure behind her lifting her hips up with his bent knees",
   "variants": {
@@ -1275,8 +2640,7 @@
      "w900": "assets/normal/w900/duo_D023_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D024",
@@ -1288,6 +2652,7 @@
    "ko": "무릎 위 앞으로 기대기"
   },
   "category": "背向坐",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the male figure seated, the female figure seated in front of him on his lap leaning forward against his legs",
   "variants": {
@@ -1303,8 +2668,7 @@
      "w900": "assets/line/w900/duo_D024_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D025",
@@ -1316,6 +2680,7 @@
    "ko": "허리 높이 안아 올리기·누운 자세"
   },
   "category": "正对卧位",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure lying on her back with her hips raised high, supported by the male figure who kneels beside her holding her waist",
   "variants": {
@@ -1385,8 +2750,7 @@
      "w900": "assets/normal/w900/duo_D025_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D026",
@@ -1398,6 +2762,7 @@
    "ko": "팔 앞으로 뻗어 허리 지지"
   },
   "category": "站立",
+  "series": "duo",
   "rating": "general",
   "description": "both figures standing, the female figure in front with both arms stretched forward, the male figure behind her supporting her waist",
   "variants": {
@@ -1452,8 +2817,7 @@
      "w900": "assets/normal/w900/duo_D026_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D027",
@@ -1465,6 +2829,7 @@
    "ko": "세운 무릎에 기대어 앉기"
   },
   "category": "坐在上方",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the male figure seated with one knee raised, the female figure seated sideways on his raised thigh leaning against his knee",
   "variants": {
@@ -1498,8 +2863,7 @@
      "w900": "assets/line/w900/duo_D027_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D028",
@@ -1511,6 +2875,7 @@
    "ko": "머리와 발 엇갈려 겹치기"
   },
   "category": "贴脸系",
+  "series": "duo",
   "rating": "suggestive",
   "description": "two figures lying on the floor head-to-toe in opposite directions, overlapping with legs intertwined",
   "variants": {
@@ -1559,8 +2924,7 @@
      "w900": "assets/normal/w900/duo_D028_front.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D030",
@@ -1572,6 +2936,7 @@
    "ko": "손 뒤로 짚고 다리 얽어 앉기"
   },
   "category": "坐姿",
+  "series": "duo",
   "rating": "general",
   "description": "both figures seated on the floor side by side leaning back on their hands, legs crossed over each other's",
   "variants": {
@@ -1605,8 +2970,7 @@
      "w900": "assets/line/w900/duo_D030_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D031",
@@ -1618,6 +2982,7 @@
    "ko": "들어올린 한 다리 안기"
   },
   "category": "坐在上方",
+  "series": "duo",
   "rating": "suggestive",
   "description": "one figure standing holding the raised vertical leg of the second figure, who lies on her back on the floor",
   "variants": {
@@ -1681,8 +3046,7 @@
      "w900": "assets/normal/w900/duo_D031_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D032",
@@ -1694,6 +3058,7 @@
    "ko": "네발로 상대 위에 숙이기"
   },
   "category": "正对卧位",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure lying on her back, the male figure on all fours over her facing her",
   "variants": {
@@ -1733,8 +3098,7 @@
      "w900": "assets/line/w900/duo_D032_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D033",
@@ -1746,6 +3110,7 @@
    "ko": "가슴 바닥·허리 들기"
   },
   "category": "前后位置",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure on all fours with her chest lowered to the floor and hips raised, the male figure kneeling behind her",
   "variants": {
@@ -1815,8 +3180,7 @@
      "w900": "assets/normal/w900/duo_D033_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D034",
@@ -1828,6 +3192,7 @@
    "ko": "양반다리 위 안기"
   },
   "category": "面对面坐",
+  "series": "duo",
   "rating": "suggestive",
   "description": "both figures seated face to face in an embrace, the male figure cross-legged with the female figure seated on his lap facing him, arms around each other",
   "variants": {
@@ -1882,8 +3247,7 @@
      "w900": "assets/line/w900/duo_D034_front.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D035",
@@ -1895,6 +3259,7 @@
    "ko": "무릎 어깨까지·발목 잡기"
   },
   "category": "正对卧位",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure lying on her back with both knees drawn up toward her chest, the male figure kneeling in front holding her ankles",
   "variants": {
@@ -1964,8 +3329,7 @@
      "w900": "assets/normal/w900/duo_D035_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D036",
@@ -1977,6 +3341,7 @@
    "ko": "뒤에서 앞으로 팔 두르기"
   },
   "category": "背向坐",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the male figure seated, the female figure seated on his lap with her back to the viewer, his hands placed on her chest from behind",
   "variants": {
@@ -2031,8 +3396,7 @@
      "w900": "assets/line/w900/duo_D036_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D037",
@@ -2044,6 +3408,7 @@
    "ko": "깊이 숙여 손 바닥에"
   },
   "category": "前后位置",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure bent deeply forward with both hands flat on the floor, the male figure standing behind her holding her hips",
   "variants": {
@@ -2089,8 +3454,7 @@
      "w900": "assets/line/w900/duo_D037_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D038",
@@ -2102,6 +3466,7 @@
    "ko": "다리 앞으로 뻗어 앉기"
   },
   "category": "坐在上方",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the male figure reclining back on the floor, the female figure seated on his lap with her legs stretched forward",
   "variants": {
@@ -2162,8 +3527,7 @@
      "w900": "assets/line/w900/duo_D038_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D039",
@@ -2175,6 +3539,7 @@
    "ko": "다리 교차·한 다리 어깨에"
   },
   "category": "侧卧",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure lying on her side with one leg crossed over and raised onto the shoulder of the male figure kneeling beside her",
   "variants": {
@@ -2214,8 +3579,7 @@
      "w900": "assets/normal/w900/duo_D039_front.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D040",
@@ -2227,6 +3591,7 @@
    "ko": "엎드려 한 다리 들기"
   },
   "category": "前后位置",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure lying face down, the male figure kneeling behind her lifting one of her legs up by the ankle",
   "variants": {
@@ -2305,8 +3670,7 @@
      "w900": "assets/normal/w900/duo_D040_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D041",
@@ -2318,6 +3682,7 @@
    "ko": "안고 다리 얽어 서기"
   },
   "category": "站立贴近",
+  "series": "duo",
   "rating": "suggestive",
   "description": "two figures standing face to face in a close embrace, legs intertwined, arms around each other",
   "variants": {
@@ -2396,8 +3761,7 @@
      "w900": "assets/normal/w900/duo_D041_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D042",
@@ -2409,6 +3773,7 @@
    "ko": "까치발·한 발 뒤로"
   },
   "category": "站立贴近",
+  "series": "duo",
   "rating": "general",
   "description": "two figures standing face to face in a close embrace, the female figure stretched up on tiptoe with one leg kicked back",
   "variants": {
@@ -2478,8 +3843,7 @@
      "w900": "assets/normal/w900/duo_D042_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D043",
@@ -2491,6 +3855,7 @@
    "ko": "귓가에 속삭이며 볼 만지기"
   },
   "category": "站立贴近",
+  "series": "duo",
   "rating": "general",
   "description": "two figures standing close face to face, the female figure's hand touching the male figure's cheek, his hands at her waist",
   "variants": {
@@ -2542,8 +3907,7 @@
      "w900": "assets/normal/w900/duo_D043_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D044",
@@ -2555,6 +3919,7 @@
    "ko": "양 손목 머리 위로 잡기"
   },
   "category": "站立",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure standing in front with both wrists held above her head by the male figure standing behind her",
   "variants": {
@@ -2618,8 +3983,7 @@
      "w900": "assets/normal/w900/duo_D044_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D045",
@@ -2631,6 +3995,7 @@
    "ko": "뒤에서 안기"
   },
   "category": "站立",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the male figure standing behind the female figure, embracing her around the chest from behind, both standing",
   "variants": {
@@ -2694,8 +4059,7 @@
      "w900": "assets/normal/w900/duo_D045_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D046",
@@ -2707,6 +4071,7 @@
    "ko": "옆으로 안겨 등 젖히기"
   },
   "category": "站立贴近",
+  "series": "duo",
   "rating": "general",
   "description": "the male figure carrying the female figure horizontally in his arms, her back arched backward",
   "variants": {
@@ -2767,8 +4132,7 @@
      "w900": "assets/normal/w900/duo_D046_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D047",
@@ -2780,6 +4144,7 @@
    "ko": "옆으로 앉아 한 다리 높이 뻗기"
   },
   "category": "坐着贴近",
+  "series": "duo",
   "rating": "suggestive",
   "description": "both figures seated on the floor in an embrace, the female figure seated sideways with one leg raised high and extended",
   "variants": {
@@ -2840,8 +4205,7 @@
      "w900": "assets/line/w900/duo_D047_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D048",
@@ -2853,6 +4217,7 @@
    "ko": "팔꿈치 짚고 옆에서 내려다보기"
   },
   "category": "侧卧",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the male figure leaning over on one elbow beside the female figure, who lies on her side, looking down at her",
   "variants": {
@@ -2871,8 +4236,7 @@
      "w900": "assets/normal/w900/duo_D048_below.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D049",
@@ -2884,6 +4248,7 @@
    "ko": "다리 걸고 기대어 자기"
   },
   "category": "躺卧",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the male figure lying on his back, the female figure lying curled against his side with her head on his chest and one leg draped over his legs",
   "variants": {
@@ -2947,8 +4312,7 @@
      "w900": "assets/normal/w900/duo_D049_front.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D051",
@@ -2960,6 +4324,7 @@
    "ko": "누워 무릎 뒤 안기"
   },
   "category": "正对卧位",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure lying on her back with both knees bent wide open, holding behind her knees with her hands, the male figure kneeling in front of her",
   "variants": {
@@ -2999,8 +4364,7 @@
      "w900": "assets/line/w900/duo_D051_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D052",
@@ -3012,6 +4376,7 @@
    "ko": "양 무릎 가슴으로 당기기"
   },
   "category": "正对卧位",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure lying on her back with both knees drawn up to her chest, the male figure kneeling in front of her",
   "variants": {
@@ -3060,8 +4425,7 @@
      "w900": "assets/normal/w900/duo_D052_diag.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D053",
@@ -3073,6 +4437,7 @@
    "ko": "숙인 허리 뒤에서 지지"
   },
   "category": "前后位置",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the female figure bent forward with her hands on her knees, the male figure standing behind her holding her waist",
   "variants": {
@@ -3124,8 +4489,7 @@
      "w900": "assets/line/w900/duo_D053_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D054",
@@ -3137,6 +4501,7 @@
    "ko": "무릎 위 다리 허리에 감기"
   },
   "category": "面对面坐",
+  "series": "duo",
   "rating": "suggestive",
   "description": "both figures seated face to face, the male figure cross-legged, the female figure seated on his lap facing him with her legs around his waist",
   "variants": {
@@ -3146,8 +4511,7 @@
      "w900": "assets/line/w900/duo_D054_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "D055",
@@ -3159,6 +4523,7 @@
    "ko": "상대 무릎 사이 등 돌려 앉기"
   },
   "category": "背向坐",
+  "series": "duo",
   "rating": "suggestive",
   "description": "the male figure seated with legs apart, the female figure seated on his lap facing forward with knees spread wide, his arms around her from behind",
   "variants": {
@@ -3210,8 +4575,7 @@
      "w900": "assets/line/w900/duo_D055_side.webp"
     }
    }
-  },
-  "series": "duo"
+  }
  },
  {
   "id": "P001",
@@ -3223,6 +4587,7 @@
    "ko": "뒤로 젖혀 앉기·한쪽 무릎 세우기"
   },
   "category": "坐姿",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor leaning back with her torso arched slightly backward, one knee raised and bent, the other leg extended forward, both hands resting on the floor behind her for support",
   "variants": {
@@ -3316,8 +4681,7 @@
      "w900": "assets/photo/w900/std_P001_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P002",
@@ -3329,6 +4693,7 @@
    "ko": "한손 지지·다리 앞으로 뻗기"
   },
   "category": "坐姿",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor with both legs swept together toward the front-left, leaning on one hand placed flat on the floor beside her for support, torso upright",
   "variants": {
@@ -3419,8 +4784,7 @@
      "w900": "assets/photo/w900/std_P002_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P003",
@@ -3432,6 +4796,7 @@
    "ko": "양손 뒤로 짚고 가슴 펴기"
   },
   "category": "坐姿",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor with legs extended forward, both hands on the floor behind her supporting her, chest pushed out proudly",
   "variants": {
@@ -3525,8 +4890,7 @@
      "w900": "assets/photo/w900/std_P003_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P004",
@@ -3538,6 +4902,7 @@
    "ko": "삼각 앉기·무릎 왼쪽으로 기울이기"
   },
   "category": "坐姿",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor with her legs folded beneath her in a triangle shape, both knees tilted over to her left side, hands resting in her lap",
   "variants": {
@@ -3618,8 +4983,7 @@
      "w900": "assets/photo/w900/std_P004_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P005",
@@ -3631,6 +4995,7 @@
    "ko": "한쪽 무릎 세우고 머리에 손"
   },
   "category": "坐姿",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor with one knee raised and bent, the other leg extended, one hand raised touching her hair",
   "variants": {
@@ -3706,8 +5071,7 @@
      "w900": "assets/photo/w900/std_P005_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P006",
@@ -3719,6 +5083,7 @@
    "ko": "다리 대각선으로 뻗고 허리에 손"
   },
   "category": "坐姿",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor, both legs extended straight out diagonally to her left side together, one hand resting on her hip, her other arm extended behind her with the hand on the floor supporting her upright torso",
   "variants": {
@@ -3799,8 +5164,7 @@
      "w900": "assets/photo/w900/std_P006_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P007",
@@ -3812,6 +5176,7 @@
    "ko": "양 팔꿈치 짚고 엎드리기"
   },
   "category": "坐姿",
+  "series": "std",
   "rating": "general",
   "description": "lying prone on the floor propped up on both elbows, upper body lifted, legs stretched out straight behind her",
   "variants": {
@@ -3884,8 +5249,7 @@
      "w900": "assets/photo/w900/std_P007_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P008",
@@ -3897,6 +5261,7 @@
    "ko": "무릎 세우고 양손 머리 뒤로"
   },
   "category": "坐姿",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor with both knees raised and bent, feet flat on the floor, both hands clasped behind her head",
   "variants": {
@@ -3981,8 +5346,7 @@
      "w900": "assets/photo/w900/std_P008_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P009",
@@ -3994,6 +5358,7 @@
    "ko": "오른쪽으로 기울어 팔꿈치 지지"
   },
   "category": "坐姿",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor leaning over to her right side, propped up on her right elbow, legs extended together to her left",
   "variants": {
@@ -4065,8 +5430,7 @@
      "w900": "assets/photo/w900/std_P009_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P010",
@@ -4078,6 +5442,7 @@
    "ko": "발목에 손 얹기"
   },
   "category": "坐姿",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor with both legs extended straight forward, leaning slightly forward with one hand resting gently on her ankle",
   "variants": {
@@ -4171,8 +5536,7 @@
      "w900": "assets/photo/w900/std_P010_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P011",
@@ -4184,6 +5548,7 @@
    "ko": "양손 머리 뒤로·가슴 젖히기"
   },
   "category": "坐姿",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor with legs extended forward, both hands clasped behind her head, chest arched outward",
   "variants": {
@@ -4268,8 +5633,7 @@
      "w900": "assets/photo/w900/std_P011_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P012",
@@ -4281,6 +5645,7 @@
    "ko": "한쪽 무릎 세우고 턱 괴기"
   },
   "category": "坐姿",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor with one knee raised and bent, her elbow resting on the raised knee and her cheek resting on that hand in a thoughtful pose, the other leg extended",
   "variants": {
@@ -4358,8 +5723,7 @@
      "w900": "assets/normal/w900/std_P012_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P013",
@@ -4371,6 +5735,7 @@
    "ko": "뒤로 기대어 양다리 들기"
   },
   "category": "坐姿",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor leaning back on both hands placed behind her, both legs lifted off the ground together, balancing on her seat",
   "variants": {
@@ -4431,8 +5796,7 @@
      "w900": "assets/line/w900/std_P013_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P014",
@@ -4444,6 +5808,7 @@
    "ko": "한쪽 무릎 세우고 발목 잡기"
   },
   "category": "坐姿",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor with one knee raised and bent, holding that leg's ankle with her hand, the other leg extended forward",
   "variants": {
@@ -4500,8 +5865,7 @@
      "w900": "assets/line/w900/std_P014_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P015",
@@ -4513,6 +5877,7 @@
    "ko": "서서 한손 허리에"
   },
   "category": "站立",
+  "series": "std",
   "rating": "general",
   "description": "standing in a relaxed contrapposto pose with her weight on one leg, one hand resting on her hip, the other arm hanging relaxed",
   "variants": {
@@ -4593,8 +5958,7 @@
      "w900": "assets/photo/w900/std_P015_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P016",
@@ -4606,6 +5970,7 @@
    "ko": "서서 양손으로 머리카락 쓸어올리기"
   },
   "category": "站立",
+  "series": "std",
   "rating": "general",
   "description": "standing with both hands raised to her head, fingers running through her hair and lifting it up",
   "variants": {
@@ -4699,8 +6064,7 @@
      "w900": "assets/photo/w900/std_P016_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P017",
@@ -4712,6 +6076,7 @@
    "ko": "서서 어깨 너머로 돌아보기"
   },
   "category": "站立",
+  "series": "std",
   "rating": "general",
   "description": "standing with her body turned mostly away from the camera, looking back over her shoulder toward the camera",
   "variants": {
@@ -4792,8 +6157,7 @@
      "w900": "assets/photo/w900/std_P017_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P018",
@@ -4805,6 +6169,7 @@
    "ko": "서서 양손 허리에"
   },
   "category": "站立",
+  "series": "std",
   "rating": "general",
   "description": "standing straight facing forward with both hands placed firmly on her hips, elbows out, legs straight and slightly apart",
   "variants": {
@@ -4898,8 +6263,7 @@
      "w900": "assets/photo/w900/std_P018_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P019",
@@ -4911,6 +6275,7 @@
    "ko": "서서 양팔 위로 뻗기"
   },
   "category": "站立",
+  "series": "std",
   "rating": "general",
   "description": "standing with both arms stretched straight up high overhead in a full-body stretch, legs straight",
   "variants": {
@@ -4950,8 +6315,7 @@
      "w900": "assets/normal/w900/std_P019_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P020",
@@ -4963,6 +6327,7 @@
    "ko": "서서 한손 뒤통수에"
   },
   "category": "站立",
+  "series": "std",
   "rating": "general",
   "description": "standing with one hand resting on the back of her head, the other arm relaxed at her side",
   "variants": {
@@ -5041,8 +6406,7 @@
      "w900": "assets/normal/w900/std_P020_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P021",
@@ -5054,6 +6418,7 @@
    "ko": "서서 목덜미와 허벅지에 손"
   },
   "category": "站立",
+  "series": "std",
   "rating": "general",
   "description": "standing with one hand resting at her neck and collarbone, the other hand resting flat on her thigh",
   "variants": {
@@ -5129,8 +6494,7 @@
      "w900": "assets/photo/w900/std_P021_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P022",
@@ -5142,6 +6506,7 @@
    "ko": "서서 팔 뒤로·가슴 펴기"
   },
   "category": "站立",
+  "series": "std",
   "rating": "general",
   "description": "standing with both arms pulled behind her back, chest pushed out proudly, legs straight",
   "variants": {
@@ -5190,8 +6555,7 @@
      "w900": "assets/normal/w900/std_P022_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P024",
@@ -5203,6 +6567,7 @@
    "ko": "서서 한쪽 다리 뒤로 들기"
   },
   "category": "站立",
+  "series": "std",
   "rating": "general",
   "description": "standing balanced on one leg, the other leg lifted behind her with the knee bent and foot up",
   "variants": {
@@ -5281,8 +6646,7 @@
      "w900": "assets/normal/w900/std_P024_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P025",
@@ -5294,6 +6658,7 @@
    "ko": "서서 다리 벌리고 양손 허리에"
   },
   "category": "站立",
+  "series": "std",
   "rating": "general",
   "description": "standing in a wide stance with legs apart, both hands on her hips, confident posture",
   "variants": {
@@ -5357,8 +6722,7 @@
      "w900": "assets/normal/w900/std_P025_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P026",
@@ -5370,6 +6734,7 @@
    "ko": "서서 한팔 들고 골반 내밀기"
   },
   "category": "站立",
+  "series": "std",
   "rating": "general",
   "description": "standing with one arm raised up, her hip pushed out to one side in a playful pose",
   "variants": {
@@ -5439,8 +6804,7 @@
      "w900": "assets/normal/w900/std_P026_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P027",
@@ -5452,6 +6816,7 @@
    "ko": "서서 양손 목덜미에"
   },
   "category": "站立",
+  "series": "std",
   "rating": "general",
   "description": "standing with both hands raised behind her head, resting on the nape of her neck, elbows out",
   "variants": {
@@ -5530,8 +6895,7 @@
      "w900": "assets/normal/w900/std_P027_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P029",
@@ -5543,6 +6907,7 @@
    "ko": "서서 머리카락 휘날리기"
   },
   "category": "站立",
+  "series": "std",
   "rating": "general",
   "description": "standing gracefully with her long hair flowing and billowing in the wind, arms relaxed",
   "variants": {
@@ -5606,8 +6971,7 @@
      "w900": "assets/normal/w900/std_P029_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P030",
@@ -5619,6 +6983,7 @@
    "ko": "서서 까치발·양팔 V자"
   },
   "category": "站立",
+  "series": "std",
   "rating": "general",
   "description": "standing on tiptoe with both arms raised diagonally upward in a V shape, legs straight",
   "variants": {
@@ -5667,8 +7032,7 @@
      "w900": "assets/normal/w900/std_P030_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P031",
@@ -5680,6 +7044,7 @@
    "ko": "무릎 꿇고 양손 허벅지에"
   },
   "category": "跪姿",
+  "series": "std",
   "rating": "general",
   "description": "kneeling upright on both knees on the floor, back straight, both hands resting flat on her thighs",
   "variants": {
@@ -5713,8 +7078,7 @@
      "w900": "assets/normal/w900/std_P031_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P032",
@@ -5726,6 +7090,7 @@
    "ko": "무릎 꿇고 양손 머리 뒤로"
   },
   "category": "跪姿",
+  "series": "std",
   "rating": "general",
   "description": "kneeling upright on both knees, both hands clasped behind her head, elbows out",
   "variants": {
@@ -5789,8 +7154,7 @@
      "w900": "assets/normal/w900/std_P032_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P033",
@@ -5802,6 +7166,7 @@
    "ko": "한쪽 무릎 꿇고 무릎에 손"
   },
   "category": "跪姿",
+  "series": "std",
   "rating": "general",
   "description": "in a half-kneeling pose with one knee on the floor and the other foot planted flat in front with knee bent, one hand resting on her front knee",
   "variants": {
@@ -5850,8 +7215,7 @@
      "w900": "assets/normal/w900/std_P033_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P034",
@@ -5863,6 +7227,7 @@
    "ko": "무릎 꿇고 상체 뒤로 젖히기"
   },
   "category": "跪姿",
+  "series": "std",
   "rating": "general",
   "description": "kneeling on both knees, arching her upper body backward in a deep backbend, arms hanging relaxed",
   "variants": {
@@ -5881,8 +7246,7 @@
      "w900": "assets/normal/w900/std_P034_diag.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P035",
@@ -5894,6 +7258,7 @@
    "ko": "무릎 꿇고 양팔 위로 뻗기"
   },
   "category": "跪姿",
+  "series": "std",
   "rating": "general",
   "description": "kneeling on both knees with both arms stretched straight upward toward the ceiling",
   "variants": {
@@ -5942,8 +7307,7 @@
      "w900": "assets/normal/w900/std_P035_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P036",
@@ -5955,6 +7319,7 @@
    "ko": "무릎 꿇고 한손 머리에·한손 허리에"
   },
   "category": "跪姿",
+  "series": "std",
   "rating": "general",
   "description": "kneeling on both knees, one hand raised touching her hair, the other hand resting on her hip",
   "variants": {
@@ -6018,8 +7383,7 @@
      "w900": "assets/normal/w900/std_P036_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P037",
@@ -6031,6 +7395,7 @@
    "ko": "한쪽 무릎 꿇고 올려다보기"
   },
   "category": "跪姿",
+  "series": "std",
   "rating": "general",
   "description": "in a half-kneeling pose with one knee on the floor and the other foot planted in front, face turned looking upward",
   "variants": {
@@ -6094,8 +7459,7 @@
      "w900": "assets/normal/w900/std_P037_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P039",
@@ -6107,6 +7471,7 @@
    "ko": "무릎 꿇고 허리에 손·뒤로 젖히기"
   },
   "category": "跪姿",
+  "series": "std",
   "rating": "general",
   "description": "kneeling on both knees with both hands on her hips, arching her back, chest out",
   "variants": {
@@ -6170,8 +7535,7 @@
      "w900": "assets/normal/w900/std_P039_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P040",
@@ -6183,6 +7547,7 @@
    "ko": "무릎 꿇고 골반 흔들며 한팔 들기"
   },
   "category": "跪姿",
+  "series": "std",
   "rating": "general",
   "description": "kneeling on both knees with her hips swayed to one side, one arm raised up in the air",
   "variants": {
@@ -6231,8 +7596,7 @@
      "w900": "assets/normal/w900/std_P040_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P041",
@@ -6244,6 +7608,7 @@
    "ko": "여자아이 앉기·양손 허벅지에"
   },
   "category": "侧坐・少女坐",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor in a W-sit with her legs folded out to both sides of her hips, back straight, both hands resting on her thighs",
   "variants": {
@@ -6298,8 +7663,7 @@
      "w900": "assets/line/w900/std_P041_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P042",
@@ -6311,6 +7675,7 @@
    "ko": "여자아이 앉기·앞에 손 짚기"
   },
   "category": "侧坐・少女坐",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor in a W-sit with legs folded to both sides, leaning slightly forward with both hands placed on the floor in front of her",
   "variants": {
@@ -6374,8 +7739,7 @@
      "w900": "assets/normal/w900/std_P042_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P043",
@@ -6387,6 +7751,7 @@
    "ko": "여자아이 앉기·양손 머리 뒤로"
   },
   "category": "侧坐・少女坐",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor in a W-sit with legs folded to both sides, both hands clasped behind her head",
   "variants": {
@@ -6420,8 +7785,7 @@
      "w900": "assets/normal/w900/std_P043_front.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P044",
@@ -6433,6 +7797,7 @@
    "ko": "여자아이 앉기·뒤에 손 짚기"
   },
   "category": "侧坐・少女坐",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor in a W-sit with legs folded to both sides, leaning back slightly with both hands placed on the floor behind her",
   "variants": {
@@ -6496,8 +7861,7 @@
      "w900": "assets/normal/w900/std_P044_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P045",
@@ -6509,6 +7873,7 @@
    "ko": "옆으로 앉아 다리 오른쪽으로"
   },
   "category": "侧坐・少女坐",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor with both legs swept together to her right side in a side-saddle sit, torso upright and straight",
   "variants": {
@@ -6587,8 +7952,7 @@
      "w900": "assets/normal/w900/std_P045_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P046",
@@ -6600,6 +7964,7 @@
    "ko": "옆으로 앉아 뺨에 손"
   },
   "category": "侧坐・少女坐",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor with both legs swept together to one side, one hand raised with fingers resting gently against her cheek",
   "variants": {
@@ -6678,8 +8043,7 @@
      "w900": "assets/normal/w900/std_P046_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P047",
@@ -6691,6 +8055,7 @@
    "ko": "옆으로 앉아 한팔 위로 뻗기"
   },
   "category": "侧坐・少女坐",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor with both legs swept together to one side, one arm stretched straight upward",
   "variants": {
@@ -6769,8 +8134,7 @@
      "w900": "assets/normal/w900/std_P047_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P048",
@@ -6782,6 +8146,7 @@
    "ko": "여자아이 앉기·목덜미에 손"
   },
   "category": "侧坐・少女坐",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor in a W-sit with legs folded to both sides, one hand resting at her neck and collarbone",
   "variants": {
@@ -6860,8 +8225,7 @@
      "w900": "assets/normal/w900/std_P048_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P049",
@@ -6873,6 +8237,7 @@
    "ko": "누워서 양팔 머리 위로"
   },
   "category": "躺姿",
+  "series": "std",
   "rating": "general",
   "description": "lying flat on her back on the floor with both arms extended above her head resting on the floor, legs straight and together",
   "variants": {
@@ -6927,8 +8292,7 @@
      "w900": "assets/normal/w900/std_P049_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P050",
@@ -6940,6 +8304,7 @@
    "ko": "옆으로 누워 턱 괴기"
   },
   "category": "躺姿",
+  "series": "std",
   "rating": "general",
   "description": "lying on her side on the floor, propped up on her lower elbow with her cheek resting on that hand, legs extended straight together",
   "variants": {
@@ -7003,8 +8368,7 @@
      "w900": "assets/normal/w900/std_P050_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P051",
@@ -7016,6 +8380,7 @@
    "ko": "엎드려 다리 들기"
   },
   "category": "躺姿",
+  "series": "std",
   "rating": "general",
   "description": "lying face down on her stomach on the floor, both legs bent upward behind her with feet kicked up in the air, chin resting on her hands",
   "variants": {
@@ -7055,8 +8420,7 @@
      "w900": "assets/line/w900/std_P051_diag.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P053",
@@ -7068,6 +8432,7 @@
    "ko": "옆으로 누워 허리 곡선"
   },
   "category": "躺姿",
+  "series": "std",
   "rating": "general",
   "description": "lying on her side on the floor, her waist curving in an S line, legs extended together",
   "variants": {
@@ -7137,8 +8502,7 @@
      "w900": "assets/normal/w900/std_P053_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P054",
@@ -7150,6 +8514,7 @@
    "ko": "누워서 양다리 위로"
   },
   "category": "躺姿",
+  "series": "std",
   "rating": "general",
   "description": "lying flat on her back on the floor with both legs raised straight up toward the ceiling together, arms resting beside her body",
   "variants": {
@@ -7210,8 +8575,7 @@
      "w900": "assets/line/w900/std_P054_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P055",
@@ -7223,6 +8587,7 @@
    "ko": "옆으로 누워 한팔 머리 위로"
   },
   "category": "躺姿",
+  "series": "std",
   "rating": "general",
   "description": "lying on her side on the floor with one arm extended above her head resting on the floor, legs extended together",
   "variants": {
@@ -7292,8 +8657,7 @@
      "w900": "assets/normal/w900/std_P055_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P056",
@@ -7305,6 +8669,7 @@
    "ko": "엎드려 팔 베개"
   },
   "category": "躺姿",
+  "series": "std",
   "rating": "general",
   "description": "lying face down on her stomach on the floor, her head resting on her folded arms used as a pillow, legs extended straight",
   "variants": {
@@ -7365,8 +8730,7 @@
      "w900": "assets/normal/w900/std_P056_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P057",
@@ -7378,6 +8742,7 @@
    "ko": "누워서 가슴 젖히기"
   },
   "category": "躺姿",
+  "series": "std",
   "rating": "suggestive",
   "description": "lying on her back on the floor with her chest arched upward, knees bent with feet flat on the floor",
   "variants": {
@@ -7420,8 +8785,7 @@
      "w900": "assets/normal/w900/std_P057_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P058",
@@ -7433,6 +8797,7 @@
    "ko": "쪼그려 앉아 무릎에 손"
   },
   "category": "蹲姿",
+  "series": "std",
   "rating": "general",
   "description": "squatting low with both feet flat on the floor, both hands resting on her knees",
   "variants": {
@@ -7502,8 +8867,7 @@
      "w900": "assets/normal/w900/std_P058_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P059",
@@ -7515,6 +8879,7 @@
    "ko": "쪼그려 앉아 한손 바닥에"
   },
   "category": "蹲姿",
+  "series": "std",
   "rating": "general",
   "description": "squatting low, one hand placed flat on the floor beside her for support, the other hand resting on her knee",
   "variants": {
@@ -7575,8 +8940,7 @@
      "w900": "assets/normal/w900/std_P059_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P060",
@@ -7588,6 +8952,7 @@
    "ko": "쪼그려 앉아 턱 괴기"
   },
   "category": "蹲姿",
+  "series": "std",
   "rating": "general",
   "description": "squatting low with her elbow resting on her knee and her cheek resting on that hand",
   "variants": {
@@ -7666,8 +9031,7 @@
      "w900": "assets/normal/w900/std_P060_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P061",
@@ -7679,6 +9043,7 @@
    "ko": "쪼그려 앉아 머리에 손"
   },
   "category": "蹲姿",
+  "series": "std",
   "rating": "general",
   "description": "squatting low, one hand raised touching her hair, the other hand resting on her knee",
   "variants": {
@@ -7742,8 +9107,7 @@
      "w900": "assets/normal/w900/std_P061_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P062",
@@ -7755,6 +9119,7 @@
    "ko": "까치발 쪼그려 앉아 양손 바닥에"
   },
   "category": "蹲姿",
+  "series": "std",
   "rating": "general",
   "description": "in a deep squat up on the balls of her feet, both hands placed flat on the floor in front of her",
   "variants": {
@@ -7823,8 +9188,7 @@
      "w900": "assets/normal/w900/std_P062_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P063",
@@ -7836,6 +9200,7 @@
    "ko": "쪼그려 앉아 돌아보기"
   },
   "category": "蹲姿",
+  "series": "std",
   "rating": "general",
   "description": "squatting low, her upper body turned to look back over her shoulder",
   "variants": {
@@ -7899,8 +9264,7 @@
      "w900": "assets/normal/w900/std_P063_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P064",
@@ -7912,6 +9276,7 @@
    "ko": "상체 숙여 무릎에 손"
   },
   "category": "前倾",
+  "series": "std",
   "rating": "general",
   "description": "standing bent forward at the waist, both hands resting on her knees, back nearly horizontal",
   "variants": {
@@ -7990,8 +9355,7 @@
      "w900": "assets/normal/w900/std_P064_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P065",
@@ -8003,6 +9367,7 @@
    "ko": "상체 숙여 정강이 만지기"
   },
   "category": "前倾",
+  "series": "std",
   "rating": "general",
   "description": "standing bent forward deeply at the waist, both hands reaching down touching her shins",
   "variants": {
@@ -8081,8 +9446,7 @@
      "w900": "assets/normal/w900/std_P065_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P066",
@@ -8094,6 +9458,7 @@
    "ko": "상체 숙여 한손 허리에·올려다보기"
   },
   "category": "前倾",
+  "series": "std",
   "rating": "general",
   "description": "standing bent forward at the waist with one hand on her hip, her face turned looking upward",
   "variants": {
@@ -8163,8 +9528,7 @@
      "w900": "assets/normal/w900/std_P066_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P067",
@@ -8176,6 +9540,7 @@
    "ko": "상체 숙여 허벅지에 손·골반 뒤로"
   },
   "category": "前倾",
+  "series": "std",
   "rating": "general",
   "description": "standing bent forward at the waist with both hands resting on her thighs, her hips pushed back",
   "variants": {
@@ -8254,8 +9619,7 @@
      "w900": "assets/normal/w900/std_P067_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P068",
@@ -8267,6 +9631,7 @@
    "ko": "상체 숙여 팔 늘어뜨리기"
   },
   "category": "前倾",
+  "series": "std",
   "rating": "general",
   "description": "standing bent forward at the waist, both arms hanging down limp and relaxed toward the floor",
   "variants": {
@@ -8330,8 +9695,7 @@
      "w900": "assets/normal/w900/std_P068_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P069",
@@ -8343,6 +9707,7 @@
    "ko": "상체 숙여 한쪽 다리 뒤로 들기"
   },
   "category": "前倾",
+  "series": "std",
   "rating": "general",
   "description": "standing bent forward at the waist, balancing on one leg with the other leg lifted behind her",
   "variants": {
@@ -8421,8 +9786,7 @@
      "w900": "assets/normal/w900/std_P069_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P070",
@@ -8434,6 +9798,7 @@
    "ko": "서서 뒤로 젖히기"
   },
   "category": "后仰",
+  "series": "std",
   "rating": "general",
   "description": "standing with her upper body arched strongly backward, head tilted back",
   "variants": {
@@ -8458,8 +9823,7 @@
      "w900": "assets/normal/w900/std_P070_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P071",
@@ -8471,6 +9835,7 @@
    "ko": "무릎 꿇고 뒤에 손 짚어 젖히기"
   },
   "category": "后仰",
+  "series": "std",
   "rating": "suggestive",
   "description": "kneeling on both knees, leaning back with both hands placed on the floor behind her, her back arched",
   "variants": {
@@ -8540,8 +9905,7 @@
      "w900": "assets/normal/w900/std_P071_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P072",
@@ -8553,6 +9917,7 @@
    "ko": "양팔 들고 뒤로 젖히기"
   },
   "category": "后仰",
+  "series": "std",
   "rating": "general",
   "description": "standing with both arms raised up while arching her whole body backward, head tilted back",
   "variants": {
@@ -8577,8 +9942,7 @@
      "w900": "assets/normal/w900/std_P072_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P073",
@@ -8590,6 +9954,7 @@
    "ko": "서서 비틀어 양팔 벌리기"
   },
   "category": "扭转",
+  "series": "std",
   "rating": "general",
   "description": "standing with her upper body twisted to the side, both arms spread wide open",
   "variants": {
@@ -8638,8 +10003,7 @@
      "w900": "assets/normal/w900/std_P073_front.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P074",
@@ -8651,6 +10015,7 @@
    "ko": "무릎 꿇고 비틀어 돌아보기"
   },
   "category": "扭转",
+  "series": "std",
   "rating": "general",
   "description": "kneeling on both knees with her upper body twisted, looking back over her shoulder",
   "variants": {
@@ -8705,8 +10070,7 @@
      "w900": "assets/line/w900/std_P074_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "P075",
@@ -8718,6 +10082,7 @@
    "ko": "앉아서 상체 비틀기"
   },
   "category": "扭转",
+  "series": "std",
   "rating": "general",
   "description": "sitting on the floor with legs extended forward, her upper body twisted to the side, one hand placed on the floor behind her for support",
   "variants": {
@@ -8778,8 +10143,7 @@
      "w900": "assets/line/w900/std_P075_side.webp"
     }
    }
-  },
-  "series": "std"
+  }
  },
  {
   "id": "S001",
@@ -8791,6 +10155,7 @@
    "ko": "S자 서기·골반 옆으로"
   },
   "category": "站姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "standing in an S-curve pose with her hips pushed out to one side, one hand resting on her hip",
   "variants": {
@@ -8869,8 +10234,7 @@
      "w900": "assets/normal/w900/sexy_S001_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S002",
@@ -8882,6 +10246,7 @@
    "ko": "뒤로 젖혀 서기·양손 머리"
   },
   "category": "站姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "standing with her back arched, both hands raised to her head with fingers in her hair",
   "variants": {
@@ -8930,8 +10295,7 @@
      "w900": "assets/normal/w900/sexy_S002_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S003",
@@ -8943,6 +10307,7 @@
    "ko": "돌아보기·골반 내밀기"
   },
   "category": "站姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "standing with her body turned away and hips pushed out, looking back over her shoulder",
   "variants": {
@@ -9021,8 +10386,7 @@
      "w900": "assets/normal/w900/sexy_S003_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S004",
@@ -9034,6 +10398,7 @@
    "ko": "앞으로 숙여 무릎에 손"
   },
   "category": "站姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "standing bent forward at the waist with both hands resting on her knees",
   "variants": {
@@ -9112,8 +10477,7 @@
      "w900": "assets/normal/w900/sexy_S004_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S005",
@@ -9125,6 +10489,7 @@
    "ko": "한 다리로 서서 무릎 안기"
   },
   "category": "站姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "standing balanced on one leg, hugging her other knee up to her chest with both arms, back arched",
   "variants": {
@@ -9203,8 +10568,7 @@
      "w900": "assets/normal/w900/sexy_S005_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S006",
@@ -9216,6 +10580,7 @@
    "ko": "벽에 손·골반 뒤로"
   },
   "category": "站姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "standing leaning with both hands placed flat against a wall in front of her, hips pushed back",
   "variants": {
@@ -9249,8 +10614,7 @@
      "w900": "assets/normal/w900/sexy_S006_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S007",
@@ -9262,6 +10626,7 @@
    "ko": "뒤돌아보기 서기"
   },
   "category": "站姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "standing with her back to the viewer, looking back over her shoulder, hips pushed out",
   "variants": {
@@ -9331,8 +10696,7 @@
      "w900": "assets/normal/w900/sexy_S007_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S008",
@@ -9344,6 +10708,7 @@
    "ko": "서서 다리 수직 찢기(I자)"
   },
   "category": "站姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "standing balanced on one leg with the other leg raised straight up beside her head in a vertical split, holding that leg's ankle with her hand",
   "variants": {
@@ -9413,8 +10778,7 @@
      "w900": "assets/line/w900/sexy_S008_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S009",
@@ -9426,6 +10790,7 @@
    "ko": "서서 양손 머리"
   },
   "category": "站姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "standing with both hands raised to her head, fingers running through her hair, elbows out, back slightly arched",
   "variants": {
@@ -9504,8 +10869,7 @@
      "w900": "assets/normal/w900/sexy_S009_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S010",
@@ -9517,6 +10881,7 @@
    "ko": "서서 팔뚝 모으기"
   },
   "category": "站姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "standing with both forearms pressed together under her chest, elbows pointing forward, shoulders raised slightly",
   "variants": {
@@ -9595,8 +10960,7 @@
      "w900": "assets/normal/w900/sexy_S010_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S011",
@@ -9608,6 +10972,7 @@
    "ko": "서서 기지개·허리 비틀기"
   },
   "category": "站姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "standing with both arms stretched up overhead in a full stretch, her waist twisted to one side",
   "variants": {
@@ -9671,8 +11036,7 @@
      "w900": "assets/normal/w900/sexy_S011_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S012",
@@ -9684,6 +11048,7 @@
    "ko": "서서 옆으로 다리 들기(V자)"
   },
   "category": "站姿",
+  "series": "sexy",
   "rating": "general",
   "description": "standing balanced on one leg with the other leg raised high out to the side, arms spread for balance",
   "variants": {
@@ -9762,8 +11127,7 @@
      "w900": "assets/normal/w900/sexy_S012_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S013",
@@ -9775,6 +11139,7 @@
    "ko": "뒷짐·가슴 펴기"
   },
   "category": "站姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "standing with both hands clasped behind her back, chest pushed out proudly",
   "variants": {
@@ -9829,8 +11194,7 @@
      "w900": "assets/normal/w900/sexy_S013_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S014",
@@ -9842,6 +11206,7 @@
    "ko": "서서 상체 숙이기·손 바닥으로"
   },
   "category": "站姿",
+  "series": "sexy",
   "rating": "general",
   "description": "standing bent forward deeply at the waist with hips pushed back, both hands reaching down toward the floor",
   "variants": {
@@ -9911,8 +11276,7 @@
      "w900": "assets/normal/w900/sexy_S014_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S015",
@@ -9924,6 +11288,7 @@
    "ko": "양손 허리·한쪽 무릎 안쪽·젖히기"
   },
   "category": "站姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "standing with both hands on her hips, one knee turned inward, back arched",
   "variants": {
@@ -10002,8 +11367,7 @@
      "w900": "assets/normal/w900/sexy_S015_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S016",
@@ -10015,6 +11379,7 @@
    "ko": "옆으로 앉아 한 손 짚고 몸 비틀기"
   },
   "category": "坐姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "sitting side-saddle with both legs swept to one side, one hand placed on the floor beside her, her torso curved gracefully to the side",
   "variants": {
@@ -10093,8 +11458,7 @@
      "w900": "assets/normal/w900/sexy_S016_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S017",
@@ -10106,6 +11470,7 @@
    "ko": "정좌 가슴 펴고 젖히기"
   },
   "category": "坐姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "kneeling sitting back on her heels in seiza style, chest pushed out and back arched, hands resting on her thighs",
   "variants": {
@@ -10169,8 +11534,7 @@
      "w900": "assets/normal/w900/sexy_S017_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S018",
@@ -10182,6 +11546,7 @@
    "ko": "M자 다리 벌려 앉기·손 뒤 짚기"
   },
   "category": "坐姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "sitting on the floor with both knees bent and spread wide apart to the sides in an M shape, both hands placed on the floor behind her for support",
   "variants": {
@@ -10260,8 +11625,7 @@
      "w900": "assets/normal/w900/sexy_S018_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S019",
@@ -10273,6 +11637,7 @@
    "ko": "M자 다리 벌려 앉기·손 무릎"
   },
   "category": "坐姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "sitting on the floor with both knees bent and spread wide apart to the sides in an M shape, both hands resting on her knees",
   "variants": {
@@ -10351,8 +11716,7 @@
      "w900": "assets/normal/w900/sexy_S019_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S020",
@@ -10364,6 +11728,7 @@
    "ko": "V자 다리 벌려 앉기·손 뒤 짚기"
   },
   "category": "坐姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "sitting on the floor with both legs extended straight and spread wide apart in a V shape, both hands placed on the floor behind her",
   "variants": {
@@ -10424,8 +11789,7 @@
      "w900": "assets/line/w900/sexy_S020_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S021",
@@ -10437,6 +11801,7 @@
    "ko": "앉아 한 다리 들고 발목 잡기"
   },
   "category": "坐姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "sitting on the floor with one leg extended forward and the other leg raised straight up, holding the raised leg's ankle with her hand",
   "variants": {
@@ -10506,8 +11871,7 @@
      "w900": "assets/normal/w900/sexy_S021_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S022",
@@ -10519,6 +11883,7 @@
    "ko": "M자·양팔꿈치 기대어 눕기"
   },
   "category": "坐姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "sitting with both knees bent and spread wide apart in an M shape, leaning back supported on both elbows",
   "variants": {
@@ -10567,8 +11932,7 @@
      "w900": "assets/normal/w900/sexy_S022_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S023",
@@ -10580,6 +11944,7 @@
    "ko": "다리 뻗어 옆으로 팔꿈치 앉기"
   },
   "category": "坐姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "sitting on the floor with legs extended together to one side, propped up on one elbow",
   "variants": {
@@ -10658,8 +12023,7 @@
      "w900": "assets/normal/w900/sexy_S023_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S024",
@@ -10671,6 +12035,7 @@
    "ko": "앉아 다리 안고 벌리기"
   },
   "category": "坐姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "sitting on the floor hugging both legs with her arms, knees spread apart to the sides",
   "variants": {
@@ -10725,8 +12090,7 @@
      "w900": "assets/line/w900/sexy_S024_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S025",
@@ -10738,6 +12102,7 @@
    "ko": "앉아 한 무릎 안고 젖히기"
   },
   "category": "坐姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "sitting on the floor hugging one raised knee to her chest with both arms, back arched, the other leg extended",
   "variants": {
@@ -10816,8 +12181,7 @@
      "w900": "assets/normal/w900/sexy_S025_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S026",
@@ -10829,6 +12193,7 @@
    "ko": "옆으로 앉아 머리 손"
   },
   "category": "坐姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "sitting side-saddle with both legs swept to one side, both hands raised to her head with fingers in her hair",
   "variants": {
@@ -10898,8 +12263,7 @@
      "w900": "assets/line/w900/sexy_S026_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S027",
@@ -10911,6 +12275,7 @@
    "ko": "W자 앉기 앞으로 숙여 손 짚기"
   },
   "category": "坐姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "sitting in a W-sit with legs folded to both sides, leaning forward with both hands placed on the floor in front of her",
   "variants": {
@@ -10989,8 +12354,7 @@
      "w900": "assets/normal/w900/sexy_S027_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S028",
@@ -11002,6 +12366,7 @@
    "ko": "앉아 한 무릎 세우고 손 뒤 짚기"
   },
   "category": "坐姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "sitting on the floor with one knee raised and bent, both hands placed on the floor behind her for support",
   "variants": {
@@ -11080,8 +12445,7 @@
      "w900": "assets/normal/w900/sexy_S028_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S029",
@@ -11093,6 +12457,7 @@
    "ko": "앉아 한 다리 크게 벌리기"
   },
   "category": "坐姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "sitting on the floor with one leg bent with the knee raised and the other leg extended straight out to the side",
   "variants": {
@@ -11156,8 +12521,7 @@
      "w900": "assets/normal/w900/sexy_S029_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S030",
@@ -11169,6 +12533,7 @@
    "ko": "무릎 안고 앉기·살짝 벌리기"
   },
   "category": "坐姿",
+  "series": "sexy",
   "rating": "general",
   "description": "sitting on the floor hugging her raised knees with both arms, knees slightly apart",
   "variants": {
@@ -11247,8 +12612,7 @@
      "w900": "assets/normal/w900/sexy_S030_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S031",
@@ -11260,6 +12624,7 @@
    "ko": "무릎 서기 젖히기·손 머리 뒤"
   },
   "category": "跪姿・爬姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "kneeling upright on both knees, upper body arched backward, both hands resting on the back of her head",
   "variants": {
@@ -11311,8 +12676,7 @@
      "w900": "assets/line/w900/sexy_S031_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S032",
@@ -11324,6 +12688,7 @@
    "ko": "네발 엎드려 허리 젖히고 고개 들기"
   },
   "category": "跪姿・爬姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "on all fours on her hands and knees, back arched downward, head raised looking forward",
   "variants": {
@@ -11387,8 +12752,7 @@
      "w900": "assets/normal/w900/sexy_S032_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S033",
@@ -11400,6 +12764,7 @@
    "ko": "무릎 크게 벌려 서기·골반 내리기"
   },
   "category": "跪姿・爬姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "kneeling upright with both knees spread wide apart, hips lowered, hands resting on her thighs",
   "variants": {
@@ -11469,8 +12834,7 @@
      "w900": "assets/normal/w900/sexy_S033_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S034",
@@ -11482,6 +12846,7 @@
    "ko": "정좌 머리 손"
   },
   "category": "跪姿・爬姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "kneeling sitting back on her heels in seiza style, both hands raised to her head with fingers in her hair",
   "variants": {
@@ -11560,8 +12925,7 @@
      "w900": "assets/normal/w900/sexy_S034_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S035",
@@ -11573,6 +12937,7 @@
    "ko": "한쪽 무릎 꿇고 허벅지에 손"
   },
   "category": "跪姿・爬姿",
+  "series": "sexy",
   "rating": "general",
   "description": "in a half-kneeling pose with one knee on the floor and the other foot planted in front, one hand resting on her front thigh",
   "variants": {
@@ -11636,8 +13001,7 @@
      "w900": "assets/normal/w900/sexy_S035_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S036",
@@ -11649,6 +13013,7 @@
    "ko": "무릎 벌려 앉아 손 앞 짚고 골반 내리기"
   },
   "category": "跪姿・爬姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "kneeling with both knees spread apart and hips lowered low, both hands placed flat on the floor in front of her, leaning slightly forward",
   "variants": {
@@ -11712,8 +13077,7 @@
      "w900": "assets/normal/w900/sexy_S036_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S037",
@@ -11725,6 +13089,7 @@
    "ko": "무릎 벌려 골반 내리고 머리 손"
   },
   "category": "跪姿・爬姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "kneeling with both knees spread apart and hips lowered low, both hands raised to her head with fingers in her hair",
   "variants": {
@@ -11773,8 +13138,7 @@
      "w900": "assets/normal/w900/sexy_S037_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S038",
@@ -11786,6 +13150,7 @@
    "ko": "무릎 꿇고 크게 젖혀 발뒤꿈치 잡기"
   },
   "category": "跪姿・爬姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "kneeling on both knees arching deeply backward, both hands reaching back holding her heels",
   "variants": {
@@ -11855,8 +13220,7 @@
      "w900": "assets/normal/w900/sexy_S038_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S039",
@@ -11868,6 +13232,7 @@
    "ko": "무릎 서기 허리 비틀어 한 팔 들기"
   },
   "category": "跪姿・爬姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "kneeling on both knees with her waist twisted to one side, one arm raised up",
   "variants": {
@@ -11916,8 +13281,7 @@
      "w900": "assets/normal/w900/sexy_S039_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S040",
@@ -11929,6 +13293,7 @@
    "ko": "고양이 포즈(가슴 바닥·골반 높이)"
   },
   "category": "跪姿・爬姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "in a kneeling pose with her chest lowered to the floor and her hips raised high, arms extended forward on the floor",
   "variants": {
@@ -11989,8 +13354,7 @@
      "w900": "assets/line/w900/sexy_S040_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S041",
@@ -12002,6 +13366,7 @@
    "ko": "네발 엎드려 한 다리 뒤로 들기"
   },
   "category": "跪姿・爬姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "on all fours on her hands and knees with one leg lifted high behind her",
   "variants": {
@@ -12080,8 +13445,7 @@
      "w900": "assets/normal/w900/sexy_S041_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S042",
@@ -12093,6 +13457,7 @@
    "ko": "무릎 벌린 정좌 앞으로 손 짚기"
   },
   "category": "跪姿・爬姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "kneeling sitting back on her heels with knees spread apart, leaning forward with both hands placed on the floor in front of her",
   "variants": {
@@ -12156,8 +13521,7 @@
      "w900": "assets/normal/w900/sexy_S042_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S043",
@@ -12169,6 +13533,7 @@
    "ko": "무릎 서기 골반 앞으로"
   },
   "category": "跪姿・爬姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "kneeling upright on both knees with her hips pushed forward, back slightly arched",
   "variants": {
@@ -12232,8 +13597,7 @@
      "w900": "assets/normal/w900/sexy_S043_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S044",
@@ -12245,6 +13609,7 @@
    "ko": "무릎 서기 옆으로 손 짚고 몸 굽히기"
   },
   "category": "跪姿・爬姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "kneeling on both knees leaning over to one side with one hand placed on the floor beside her, torso curved to the side",
   "variants": {
@@ -12323,8 +13688,7 @@
      "w900": "assets/normal/w900/sexy_S044_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S045",
@@ -12336,6 +13700,7 @@
    "ko": "무릎 서기 젖혀 한 손 발뒤꿈치로"
   },
   "category": "跪姿・爬姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "kneeling on both knees arching backward, one hand reaching back toward her heel",
   "variants": {
@@ -12366,8 +13731,7 @@
      "w900": "assets/normal/w900/sexy_S045_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S046",
@@ -12379,6 +13743,7 @@
    "ko": "옆으로 누워 허리 곡선·한 다리 굽히기"
   },
   "category": "躺姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying on her side on the floor with her waist curved, one leg bent at the knee",
   "variants": {
@@ -12424,8 +13789,7 @@
      "w900": "assets/normal/w900/sexy_S046_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S047",
@@ -12437,6 +13801,7 @@
    "ko": "엎드려 턱 괴고 양다리 들기"
   },
   "category": "躺姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying face down on her stomach, chin resting on her hands, both legs bent up behind her with feet in the air",
   "variants": {
@@ -12515,8 +13880,7 @@
      "w900": "assets/normal/w900/sexy_S047_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S048",
@@ -12528,6 +13892,7 @@
    "ko": "엎드려 상체 일으켜 크게 젖히기"
   },
   "category": "躺姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying face down, pushing her upper body up with both arms and arching her back deeply, legs extended behind her",
   "variants": {
@@ -12597,8 +13962,7 @@
      "w900": "assets/normal/w900/sexy_S048_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S049",
@@ -12610,6 +13974,7 @@
    "ko": "누워 골반 들고 한 다리 들기"
   },
   "category": "躺姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying on her back with her hips lifted off the floor in a partial bridge, one leg raised high",
   "variants": {
@@ -12679,8 +14044,7 @@
      "w900": "assets/normal/w900/sexy_S049_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S050",
@@ -12692,6 +14056,7 @@
    "ko": "누워 양 무릎 모아 옆으로 넘기기"
   },
   "category": "躺姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying on her back with both knees bent together and dropped over to one side, arms spread on the floor",
   "variants": {
@@ -12713,8 +14078,7 @@
      "w900": "assets/line/w900/sexy_S050_diag.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S051",
@@ -12726,6 +14090,7 @@
    "ko": "엎드려 팔꿈치 짚고 다리 뻗어 벌리기"
   },
   "category": "躺姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying face down propped up on both elbows, legs extended straight behind her and slightly apart",
   "variants": {
@@ -12774,8 +14139,7 @@
      "w900": "assets/normal/w900/sexy_S051_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S052",
@@ -12787,6 +14151,7 @@
    "ko": "옆으로 누워 팔 머리 위·S자"
   },
   "category": "躺姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying on her side with one arm extended above her head on the floor, her body curved in an S line",
   "variants": {
@@ -12835,8 +14200,7 @@
      "w900": "assets/normal/w900/sexy_S052_front.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S053",
@@ -12848,6 +14212,7 @@
    "ko": "옆으로 팔꿈치 기대어 눕기"
   },
   "category": "躺姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "reclining on her side propped up on one elbow, one knee bent, the other leg extended",
   "variants": {
@@ -12917,8 +14282,7 @@
      "w900": "assets/normal/w900/sexy_S053_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S054",
@@ -12930,6 +14294,7 @@
    "ko": "엎드려 골반 높이 들기"
   },
   "category": "躺姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying face down with her knees tucked under her and hips raised high, forehead resting on her folded arms",
   "variants": {
@@ -12993,8 +14358,7 @@
      "w900": "assets/normal/w900/sexy_S054_front.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S055",
@@ -13006,6 +14370,7 @@
    "ko": "누워 양다리 들어 V자 벌리기"
   },
   "category": "躺姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying on her back with both legs raised up and spread apart in a V shape, arms resting beside her",
   "variants": {
@@ -13075,8 +14440,7 @@
      "w900": "assets/normal/w900/sexy_S055_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S056",
@@ -13088,6 +14452,7 @@
    "ko": "누워 등 젖히고 양팔 머리 위"
   },
   "category": "躺姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying on her back with her back arched, both arms extended above her head on the floor",
   "variants": {
@@ -13109,8 +14474,7 @@
      "w900": "assets/line/w900/sexy_S056_front.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S057",
@@ -13122,6 +14486,7 @@
    "ko": "엎드려 돌아보고 한 무릎 옆으로 굽히기"
   },
   "category": "躺姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying face down, looking back over her shoulder, one knee bent out to the side",
   "variants": {
@@ -13167,8 +14532,7 @@
      "w900": "assets/normal/w900/sexy_S057_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S058",
@@ -13180,6 +14544,7 @@
    "ko": "옆으로 누워 윗다리 들고 발목 잡기"
   },
   "category": "躺姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying on her side with her upper leg raised high, holding that leg's ankle with her hand",
   "variants": {
@@ -13258,8 +14623,7 @@
      "w900": "assets/normal/w900/sexy_S058_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S059",
@@ -13271,6 +14635,7 @@
    "ko": "누워 양 무릎 세우고 한 팔 머리 위"
   },
   "category": "躺姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying on her back with both knees raised and bent, feet flat on the floor, one arm extended above her head on the floor",
   "variants": {
@@ -13280,8 +14645,7 @@
      "w900": "assets/line/w900/sexy_S059_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S060",
@@ -13293,6 +14657,7 @@
    "ko": "엎드려 개구리 다리"
   },
   "category": "躺姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying face down with both knees bent and spread out to the sides like a frog, feet up behind her",
   "variants": {
@@ -13362,8 +14727,7 @@
      "w900": "assets/normal/w900/sexy_S060_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S061",
@@ -13375,6 +14739,7 @@
    "ko": "등 보이며 옆으로 눕기"
   },
   "category": "躺姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying on her side with her back facing the viewer, legs extended together",
   "variants": {
@@ -13417,8 +14782,7 @@
      "w900": "assets/normal/w900/sexy_S061_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S062",
@@ -13430,6 +14794,7 @@
    "ko": "누워 양 무릎 가슴으로 안기"
   },
   "category": "躺姿",
+  "series": "sexy",
   "rating": "general",
   "description": "lying on her back with both knees pulled up to her chest, hugged by her arms",
   "variants": {
@@ -13499,8 +14864,7 @@
      "w900": "assets/normal/w900/sexy_S062_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S063",
@@ -13512,6 +14876,7 @@
    "ko": "엎드려 턱 괴고 한 다리 들기"
   },
   "category": "躺姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying face down, chin resting on her hands, one leg bent up behind her",
   "variants": {
@@ -13590,8 +14955,7 @@
      "w900": "assets/normal/w900/sexy_S063_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S064",
@@ -13603,6 +14967,7 @@
    "ko": "누워 한 무릎 바깥으로 열어 눕히기"
   },
   "category": "躺姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying on her back with one knee bent and dropped open out to the side, the other leg extended straight",
   "variants": {
@@ -13663,8 +15028,7 @@
      "w900": "assets/line/w900/sexy_S064_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S065",
@@ -13676,6 +15040,7 @@
    "ko": "옆으로 팔꿈치 짚고 상체 일으켜 한 무릎 세우기"
   },
   "category": "躺姿",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying on her side propped up on one elbow with her upper body raised, one knee raised and bent",
   "variants": {
@@ -13721,8 +15086,7 @@
      "w900": "assets/normal/w900/sexy_S065_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S066",
@@ -13734,6 +15098,7 @@
    "ko": "브릿지 골반 들고 무릎 벌리기"
   },
   "category": "特殊",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "in a full bridge pose on her hands and feet with her hips raised high and knees spread apart",
   "variants": {
@@ -13794,8 +15159,7 @@
      "w900": "assets/normal/w900/sexy_S066_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S067",
@@ -13807,6 +15171,7 @@
    "ko": "누워 양다리 머리 쪽으로 접어 허벅지 안기"
   },
   "category": "特殊",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying on her back with both legs folded back over her body toward her head, holding her thighs with both hands, seen from the side",
   "variants": {
@@ -13885,8 +15250,7 @@
      "w900": "assets/normal/w900/sexy_S067_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S068",
@@ -13898,6 +15262,7 @@
    "ko": "누워 양다리 접어 머리 너머로 뻗기"
   },
   "category": "特殊",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying on her back with both legs folded back over her body and extended past her head, toes touching the floor beyond her head",
   "variants": {
@@ -13931,8 +15296,7 @@
      "w900": "assets/normal/w900/sexy_S068_diag.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S069",
@@ -13944,6 +15308,7 @@
    "ko": "누워 양다리 접어 무릎 머리 옆 바닥에"
   },
   "category": "特殊",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "lying on her back with both legs folded back over her body, knees bent down to the floor beside her head",
   "variants": {
@@ -14022,8 +15387,7 @@
      "w900": "assets/normal/w900/sexy_S069_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S070",
@@ -14035,6 +15399,7 @@
    "ko": "쪼그려 다리 벌리기"
   },
   "category": "特殊",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "in a deep squat with feet flat on the floor and knees spread wide apart, elbows resting on her knees",
   "variants": {
@@ -14104,8 +15469,7 @@
      "w900": "assets/normal/w900/sexy_S070_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S071",
@@ -14117,6 +15481,7 @@
    "ko": "발끝으로 쪼그려 다리 벌리고 손 바닥"
   },
   "category": "特殊",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "in a deep squat up on the balls of her feet with knees spread wide apart, both hands placed flat on the floor in front of her",
   "variants": {
@@ -14165,8 +15530,7 @@
      "w900": "assets/normal/w900/sexy_S071_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S072",
@@ -14178,6 +15542,7 @@
    "ko": "브릿지(양손 양발)"
   },
   "category": "特殊",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "in a full bridge pose supported on both hands and both feet, back arched, hips raised high",
   "variants": {
@@ -14241,8 +15606,7 @@
      "w900": "assets/normal/w900/sexy_S072_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S073",
@@ -14254,6 +15618,7 @@
    "ko": "스탠딩 스플릿"
   },
   "category": "特殊",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "standing bent forward at the waist with one leg lifted high behind her in a standing split, hands reaching toward the floor",
   "variants": {
@@ -14296,8 +15661,7 @@
      "w900": "assets/line/w900/sexy_S073_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S074",
@@ -14309,6 +15673,7 @@
    "ko": "앞뒤 스플릿 상체 젖히기"
   },
   "category": "特殊",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "in a full front-to-back floor split with her upper body arched backward",
   "variants": {
@@ -14348,8 +15713,7 @@
      "w900": "assets/normal/w900/sexy_S074_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S075",
@@ -14361,6 +15725,7 @@
    "ko": "좌우 스플릿 상체 세우기"
   },
   "category": "特殊",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "in a full side-to-side floor split sitting upright, hands resting on the floor beside her",
   "variants": {
@@ -14412,8 +15777,7 @@
      "w900": "assets/line/w900/sexy_S075_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S076",
@@ -14425,6 +15789,7 @@
    "ko": "어깨로 서서 다리 V자"
   },
   "category": "特殊",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "in a shoulder stand balanced on her shoulders with both legs spread apart in a V shape, hands supporting her back",
   "variants": {
@@ -14485,8 +15850,7 @@
      "w900": "assets/line/w900/sexy_S076_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S077",
@@ -14498,6 +15862,7 @@
    "ko": "무릎 꿇고 뒤로 젖혀 양손 바닥"
   },
   "category": "特殊",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "kneeling on both knees and arching backward until both hands touch the floor behind her",
   "variants": {
@@ -14567,8 +15932,7 @@
      "w900": "assets/normal/w900/sexy_S077_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S078",
@@ -14580,6 +15944,7 @@
    "ko": "쪼그려 다리 벌리고 양손 머리 뒤"
   },
   "category": "特殊",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "in a deep squat with feet flat and knees spread wide apart, both hands clasped behind her head",
   "variants": {
@@ -14634,8 +15999,7 @@
      "w900": "assets/line/w900/sexy_S078_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S079",
@@ -14647,6 +16011,7 @@
    "ko": "한 다리 브릿지·다른 다리 천장으로"
   },
   "category": "特殊",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "in a bridge pose on her shoulders and one foot with hips raised high, the other leg extended straight up toward the ceiling",
   "variants": {
@@ -14716,8 +16081,7 @@
      "w900": "assets/line/w900/sexy_S079_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "S080",
@@ -14729,6 +16093,7 @@
    "ko": "역 테이블 포즈 골반 올리기"
   },
   "category": "特殊",
+  "series": "sexy",
   "rating": "suggestive",
   "description": "in a reverse tabletop pose supported on both hands and both feet with her front facing up, hips pushed up high",
   "variants": {
@@ -14789,8 +16154,7 @@
      "w900": "assets/line/w900/sexy_S080_side.webp"
     }
    }
-  },
-  "series": "sexy"
+  }
  },
  {
   "id": "U001",
@@ -14802,6 +16166,7 @@
    "ko": "가슴 앞 양손 하트"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "both hands forming a heart shape in front of her chest",
   "variants": {
@@ -14853,8 +16218,7 @@
      "w900": "assets/line/w900/upper_U001_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U002",
@@ -14866,6 +16230,7 @@
    "ko": "머리 위 양팔 하트"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "both arms raised above her head, hands joined forming a large heart shape overhead",
   "variants": {
@@ -14920,8 +16285,7 @@
      "w900": "assets/line/w900/upper_U002_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U003",
@@ -14933,6 +16297,7 @@
    "ko": "볼 옆 손가락 하트"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "one hand beside her cheek making a small finger heart with thumb and index finger crossed",
   "variants": {
@@ -14975,8 +16340,7 @@
      "w900": "assets/line/w900/upper_U003_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U004",
@@ -14988,6 +16352,7 @@
    "ko": "턱 아래 더블 피스"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "both hands raised beside her face making peace signs under her chin",
   "variants": {
@@ -15057,8 +16422,7 @@
      "w900": "assets/line/w900/upper_U004_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U005",
@@ -15070,6 +16434,7 @@
    "ko": "손등 피스"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "one hand raised beside her face making a peace sign with the back of the hand facing forward",
   "variants": {
@@ -15139,8 +16504,7 @@
      "w900": "assets/line/w900/upper_U005_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U006",
@@ -15152,6 +16516,7 @@
    "ko": "주먹 볼에 대고 애교"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "one fist held against her cheek, head tilted to one side",
   "variants": {
@@ -15212,8 +16577,7 @@
      "w900": "assets/line/w900/upper_U006_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U007",
@@ -15225,6 +16589,7 @@
    "ko": "토끼 귀 포즈"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "both hands raised beside her head with two fingers extended up like rabbit ears",
   "variants": {
@@ -15264,8 +16629,7 @@
      "w900": "assets/normal/w900/upper_U007_front.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U008",
@@ -15277,6 +16641,7 @@
    "ko": "고양이 손 포즈"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "both hands raised beside her face with fingers curled down like cat paws",
   "variants": {
@@ -15340,8 +16705,7 @@
      "w900": "assets/normal/w900/upper_U008_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U009",
@@ -15353,6 +16717,7 @@
    "ko": "손가락 벌린 할퀴기 포즈"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "both hands raised beside her head with fingers spread wide like claws",
   "variants": {
@@ -15407,8 +16772,7 @@
      "w900": "assets/line/w900/upper_U009_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U010",
@@ -15420,6 +16784,7 @@
    "ko": "입 앞 검지(쉿)"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "one index finger raised vertically in front of her chin, the other arm relaxed at her side",
   "variants": {
@@ -15489,8 +16854,7 @@
      "w900": "assets/normal/w900/upper_U010_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U011",
@@ -15502,6 +16866,7 @@
    "ko": "고개 기울여 손 머리 옆"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "head tilted to one side, one hand touching the side of her head",
   "variants": {
@@ -15535,8 +16900,7 @@
      "w900": "assets/line/w900/upper_U011_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U012",
@@ -15548,6 +16912,7 @@
    "ko": "손 내밀어 키스"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "one hand stretched toward the viewer with the palm facing up, the other hand relaxed",
   "variants": {
@@ -15617,8 +16982,7 @@
      "w900": "assets/line/w900/upper_U012_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U013",
@@ -15630,6 +16994,7 @@
    "ko": "양손바닥에 턱(꽃받침)"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "chin resting on both open palms, elbows bent, hands cupping her face from below like a flower",
   "variants": {
@@ -15699,8 +17064,7 @@
      "w900": "assets/normal/w900/upper_U013_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U014",
@@ -15712,6 +17076,7 @@
    "ko": "검지로 볼 찌르기"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "one index finger poking her own cheek, head tilted to one side",
   "variants": {
@@ -15766,8 +17131,7 @@
      "w900": "assets/normal/w900/upper_U014_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U015",
@@ -15779,6 +17143,7 @@
    "ko": "양손으로 입 가리기"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "both hands held up together in front of the lower half of her face",
   "variants": {
@@ -15839,8 +17204,7 @@
      "w900": "assets/line/w900/upper_U015_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U016",
@@ -15852,6 +17216,7 @@
    "ko": "양손 모아 부탁 포즈"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "both palms pressed together in front of her chest in a pleading gesture, head tilted",
   "variants": {
@@ -15903,8 +17268,7 @@
      "w900": "assets/line/w900/upper_U016_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U017",
@@ -15916,6 +17280,7 @@
    "ko": "셀프 허그 수줍음"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "both arms wrapped around her own shoulders in a self-hug, head lowered slightly",
   "variants": {
@@ -15976,8 +17341,7 @@
      "w900": "assets/line/w900/upper_U017_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U018",
@@ -15989,6 +17353,7 @@
    "ko": "손가락 프레임"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "both hands raised in front of her face forming a rectangular frame with her fingers",
   "variants": {
@@ -16049,8 +17414,7 @@
      "w900": "assets/line/w900/upper_U018_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U019",
@@ -16062,6 +17426,7 @@
    "ko": "귀 옆 머리 넘기기"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "one hand raised to the side of her head at ear height, the other arm relaxed",
   "variants": {
@@ -16113,8 +17478,7 @@
      "w900": "assets/line/w900/upper_U019_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U020",
@@ -16126,6 +17490,7 @@
    "ko": "양손으로 볼 감싸기"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "both hands cupping her cheeks from both sides",
   "variants": {
@@ -16186,8 +17551,7 @@
      "w900": "assets/line/w900/upper_U020_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U021",
@@ -16199,6 +17563,7 @@
    "ko": "경례 포즈"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "one hand raised flat to her forehead in a salute, the other arm at her side",
   "variants": {
@@ -16235,8 +17600,7 @@
      "w900": "assets/line/w900/upper_U021_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U022",
@@ -16248,6 +17612,7 @@
    "ko": "카메라 가리키기"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "one arm extended forward pointing straight at the viewer with her index finger",
   "variants": {
@@ -16326,8 +17691,7 @@
      "w900": "assets/normal/w900/upper_U022_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U023",
@@ -16339,6 +17703,7 @@
    "ko": "한 손 얼굴 앞·팔 뻗기"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "one hand raised in front of her face, the other arm stretched out to the side",
   "variants": {
@@ -16417,8 +17782,7 @@
      "w900": "assets/normal/w900/upper_U023_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U024",
@@ -16430,6 +17794,7 @@
    "ko": "반쪽 하트+한 손 가슴"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "one hand making a half-heart shape beside her cheek, the other hand placed flat on her chest",
   "variants": {
@@ -16493,8 +17858,7 @@
      "w900": "assets/normal/w900/upper_U024_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U025",
@@ -16506,6 +17870,7 @@
    "ko": "손가락 틈으로 보기"
   },
   "category": "可爱系",
+  "series": "upper",
   "rating": "general",
   "description": "both hands held up in front of her face with fingers spread, peeking through the gaps",
   "variants": {
@@ -16569,8 +17934,7 @@
      "w900": "assets/normal/w900/upper_U025_front.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U026",
@@ -16582,6 +17946,7 @@
    "ko": "숙여 팔뚝 모으기"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "leaning forward toward the viewer, both forearms pressed together under her chest",
   "variants": {
@@ -16642,8 +18007,7 @@
      "w900": "assets/line/w900/upper_U026_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U027",
@@ -16655,6 +18019,7 @@
    "ko": "앉아 양손 무릎"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "sitting upright with both hands placed flat on her knees, leaning slightly forward",
   "variants": {
@@ -16724,8 +18089,7 @@
      "w900": "assets/line/w900/upper_U027_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U028",
@@ -16737,6 +18101,7 @@
    "ko": "팔꿈치 붙이고 허리 비틀기"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "both elbows tucked in close to her sides, waist twisted to one side",
   "variants": {
@@ -16797,8 +18162,7 @@
      "w900": "assets/normal/w900/upper_U028_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U029",
@@ -16810,6 +18174,7 @@
    "ko": "어깨 으쓱·손 아래 모아 잡기"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "shoulders shrugged up, both hands clasped together low in front of her",
   "variants": {
@@ -16879,8 +18244,7 @@
      "w900": "assets/line/w900/upper_U029_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U030",
@@ -16892,6 +18256,7 @@
    "ko": "양팔 가슴 아래 교차"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "both arms crossed under her chest, each hand holding the opposite elbow",
   "variants": {
@@ -16961,8 +18326,7 @@
      "w900": "assets/line/w900/upper_U030_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U031",
@@ -16974,6 +18338,7 @@
    "ko": "양손 아래서 받치기"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "both hands placed under her chest with palms facing upward",
   "variants": {
@@ -17004,8 +18369,7 @@
      "w900": "assets/normal/w900/upper_U031_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U032",
@@ -17017,6 +18381,7 @@
    "ko": "상체 숙여 팔뚝 기대기"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "leaning forward resting her forearms flat on an invisible table in front of her",
   "variants": {
@@ -17071,8 +18436,7 @@
      "w900": "assets/line/w900/upper_U032_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U033",
@@ -17084,6 +18448,7 @@
    "ko": "팔뚝 세워 안쪽으로"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "both forearms held vertically in front of her chest, pressing inward from both sides",
   "variants": {
@@ -17147,8 +18512,7 @@
      "w900": "assets/normal/w900/upper_U033_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U034",
@@ -17160,6 +18524,7 @@
    "ko": "한쪽 팔뚝 가로로 받치기"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "one forearm placed horizontally under her chest, the other arm relaxed at her side",
   "variants": {
@@ -17229,8 +18594,7 @@
      "w900": "assets/normal/w900/upper_U034_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U035",
@@ -17242,6 +18606,7 @@
    "ko": "양손 쇄골에 얹기"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "general",
   "description": "both hands placed flat on her collarbones, shoulders raised slightly",
   "variants": {
@@ -17278,8 +18643,7 @@
      "w900": "assets/line/w900/upper_U035_front.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U036",
@@ -17291,6 +18655,7 @@
    "ko": "양손 허리·가슴 펴기"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "both hands gripping her waist on both sides, chest pushed out",
   "variants": {
@@ -17360,8 +18725,7 @@
      "w900": "assets/normal/w900/upper_U036_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U037",
@@ -17373,6 +18737,7 @@
    "ko": "양손 옆구리서 안으로"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "both hands pressing inward from both sides at rib height",
   "variants": {
@@ -17424,8 +18789,7 @@
      "w900": "assets/line/w900/upper_U037_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U038",
@@ -17437,6 +18801,7 @@
    "ko": "뒷짐 지고 가슴 펴기"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "both hands clasped behind her back, chest pushed out proudly",
   "variants": {
@@ -17491,8 +18856,7 @@
      "w900": "assets/line/w900/upper_U038_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U039",
@@ -17504,6 +18868,7 @@
    "ko": "무릎 꿇고 숙여 손 짚기"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "kneeling and leaning forward with both hands placed on the floor in front of her",
   "variants": {
@@ -17582,8 +18947,7 @@
      "w900": "assets/normal/w900/upper_U039_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U040",
@@ -17595,6 +18959,7 @@
    "ko": "팔꿈치 무릎에·턱 괴기"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "general",
   "description": "one elbow propped on her raised knee, chin resting on that hand",
   "variants": {
@@ -17640,8 +19005,7 @@
      "w900": "assets/line/w900/upper_U040_front.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U041",
@@ -17653,6 +19017,7 @@
    "ko": "양팔로 안기"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "both arms wrapped around her own chest in a self-embrace",
   "variants": {
@@ -17722,8 +19087,7 @@
      "w900": "assets/normal/w900/upper_U041_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U042",
@@ -17735,6 +19099,7 @@
    "ko": "한 손 가슴·한 손 머리"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "one hand placed at the side of her chest, the other hand raised to the side of her head",
   "variants": {
@@ -17798,8 +19163,7 @@
      "w900": "assets/normal/w900/upper_U042_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U043",
@@ -17811,6 +19175,7 @@
    "ko": "한쪽 어깨 내리고 숙이기"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "one shoulder dropped lower than the other, leaning forward toward the viewer",
   "variants": {
@@ -17856,8 +19221,7 @@
      "w900": "assets/normal/w900/upper_U043_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U044",
@@ -17869,6 +19233,7 @@
    "ko": "엎드려 양팔꿈치"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "lying face down propped up on both elbows, head raised",
   "variants": {
@@ -17899,8 +19264,7 @@
      "w900": "assets/normal/w900/upper_U044_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U045",
@@ -17912,6 +19276,7 @@
    "ko": "젖혀 양팔 안으로"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "arching backward with both upper arms pressing inward at her sides",
   "variants": {
@@ -17933,8 +19298,7 @@
      "w900": "assets/line/w900/upper_U045_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U046",
@@ -17946,6 +19310,7 @@
    "ko": "한 팔 허리 뒤·한 손 목"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "one arm wrapped around behind her waist, the other hand touching the side of her neck",
   "variants": {
@@ -17994,8 +19359,7 @@
      "w900": "assets/normal/w900/upper_U046_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U047",
@@ -18007,6 +19371,7 @@
    "ko": "양손 가슴 윗부분"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "both hands placed flat on the upper part of her chest",
   "variants": {
@@ -18067,8 +19432,7 @@
      "w900": "assets/line/w900/upper_U047_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U048",
@@ -18080,6 +19444,7 @@
    "ko": "손등에 턱·숙이기"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "chin resting on the back of one hand, leaning forward slightly",
   "variants": {
@@ -18140,8 +19505,7 @@
      "w900": "assets/normal/w900/upper_U048_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U049",
@@ -18153,6 +19517,7 @@
    "ko": "네발 기어 고개 들기"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "on all fours on her hands and knees with her head raised looking forward",
   "variants": {
@@ -18216,8 +19581,7 @@
      "w900": "assets/normal/w900/upper_U049_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U050",
@@ -18229,6 +19593,7 @@
    "ko": "팔짱 교차"
   },
   "category": "胸线强调系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "both arms folded across in front of her chest, each hand holding the opposite upper arm",
   "variants": {
@@ -18307,8 +19672,7 @@
      "w900": "assets/normal/w900/upper_U050_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U051",
@@ -18320,6 +19684,7 @@
    "ko": "양손 옆에서 감싸기"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "both hands cupped over her chest from the sides",
   "variants": {
@@ -18389,8 +19754,7 @@
      "w900": "assets/line/w900/upper_U051_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U052",
@@ -18402,6 +19766,7 @@
    "ko": "양손 가슴·손가락 벌리기"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "both hands placed on her chest with fingers spread",
   "variants": {
@@ -18453,8 +19818,7 @@
      "w900": "assets/line/w900/upper_U052_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U053",
@@ -18466,6 +19830,7 @@
    "ko": "양손으로 가슴 가리기"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "both hands placed flat over her chest covering it",
   "variants": {
@@ -18535,8 +19900,7 @@
      "w900": "assets/normal/w900/upper_U053_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U054",
@@ -18548,6 +19912,7 @@
    "ko": "한 손 가슴·한 손 허리"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "one hand placed flat over her chest, the other hand resting on her hip",
   "variants": {
@@ -18608,8 +19973,7 @@
      "w900": "assets/normal/w900/upper_U054_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U055",
@@ -18621,6 +19985,7 @@
    "ko": "한 손 가슴·한 손 머리"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "one hand placed on her chest, the other hand raised to the top of her head",
   "variants": {
@@ -18690,8 +20055,7 @@
      "w900": "assets/normal/w900/upper_U055_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U056",
@@ -18703,6 +20067,7 @@
    "ko": "손가락 어깨 위"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "one hand raised to her shoulder with fingers touching the top of the shoulder",
   "variants": {
@@ -18772,8 +20137,7 @@
      "w900": "assets/normal/w900/upper_U056_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U057",
@@ -18785,6 +20149,7 @@
    "ko": "양손 정수리·크게 젖히기"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "both hands raised to the top of her head, back arched deeply",
   "variants": {
@@ -18848,8 +20213,7 @@
      "w900": "assets/normal/w900/upper_U057_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U058",
@@ -18861,6 +20225,7 @@
    "ko": "양손 머리 뒤·팔꿈치 벌리기"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "both hands clasped behind her head, elbows pointing out to the sides",
   "variants": {
@@ -18921,8 +20286,7 @@
      "w900": "assets/line/w900/upper_U058_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U059",
@@ -18934,6 +20298,7 @@
    "ko": "검지 갈비뼈 따라"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "one hand placed just below her chest with the index finger extended along her ribs",
   "variants": {
@@ -19012,8 +20377,7 @@
      "w900": "assets/normal/w900/upper_U059_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U060",
@@ -19025,6 +20389,7 @@
    "ko": "검지 턱 앞+한 손 가슴"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "one index finger held vertically in front of her chin, the other hand placed flat on her chest",
   "variants": {
@@ -19085,8 +20450,7 @@
      "w900": "assets/line/w900/upper_U060_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U061",
@@ -19098,6 +20462,7 @@
    "ko": "손가락 끝 가슴 중앙"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "one fingertip touching the center of her chest, the other arm relaxed",
   "variants": {
@@ -19152,8 +20517,7 @@
      "w900": "assets/normal/w900/upper_U061_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U062",
@@ -19165,6 +20529,7 @@
    "ko": "한 손 가슴·한 손 배"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "one hand placed flat on her chest, the other hand resting flat on her stomach",
   "variants": {
@@ -19234,8 +20599,7 @@
      "w900": "assets/normal/w900/upper_U062_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U063",
@@ -19247,6 +20611,7 @@
    "ko": "양팔 뒤로·가슴 내밀기"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "both arms reaching down behind her back, chest pushed forward",
   "variants": {
@@ -19310,8 +20675,7 @@
      "w900": "assets/normal/w900/upper_U063_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U064",
@@ -19323,6 +20687,7 @@
    "ko": "엎드려 한쪽 팔꿈치·한 손 가슴 옆"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "lying face down propped up on one elbow, the other hand placed at the side of her chest",
   "variants": {
@@ -19401,8 +20766,7 @@
      "w900": "assets/normal/w900/upper_U064_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U065",
@@ -19414,6 +20778,7 @@
    "ko": "네발 기어 허리 젖히고 고개 들기"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "on all fours with her back arched downward, head tilted up",
   "variants": {
@@ -19453,8 +20818,7 @@
      "w900": "assets/line/w900/upper_U065_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U066",
@@ -19466,6 +20830,7 @@
    "ko": "네발 기어 한 손 가슴"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "on all fours with one hand placed at the center of her chest",
   "variants": {
@@ -19544,8 +20909,7 @@
      "w900": "assets/normal/w900/upper_U066_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U067",
@@ -19557,6 +20921,7 @@
    "ko": "네발 기어 앞으로 쭉 뻗기"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "on all fours stretching forward with both arms extended in front of her, back arched",
   "variants": {
@@ -19617,8 +20982,7 @@
      "w900": "assets/normal/w900/upper_U067_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U068",
@@ -19630,6 +20994,7 @@
    "ko": "무릎 서기 젖혀 손 발뒤꿈치로"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "kneeling and arching backward, one hand reaching back down toward her heel",
   "variants": {
@@ -19669,8 +21034,7 @@
      "w900": "assets/normal/w900/upper_U068_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U069",
@@ -19682,6 +21046,7 @@
    "ko": "무릎 서기 양손 머리 뒤"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "kneeling upright with both hands clasped behind her head",
   "variants": {
@@ -19760,8 +21125,7 @@
      "w900": "assets/normal/w900/upper_U069_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U070",
@@ -19773,6 +21137,7 @@
    "ko": "검지 얼굴 앞 세우기"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "one index finger held vertically in front of her face at chin height, head tilted",
   "variants": {
@@ -19818,8 +21183,7 @@
      "w900": "assets/line/w900/upper_U070_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U071",
@@ -19831,6 +21195,7 @@
    "ko": "한 손 목 잡고 젖히기"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "one hand gripping the side of her neck, back arched, head tilted back",
   "variants": {
@@ -19900,8 +21265,7 @@
      "w900": "assets/normal/w900/upper_U071_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U072",
@@ -19913,6 +21277,7 @@
    "ko": "양손 안으로 모아 내밀기"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "both hands pressing inward from the sides of her chest, chest pushed forward",
   "variants": {
@@ -19991,8 +21356,7 @@
      "w900": "assets/normal/w900/upper_U072_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U073",
@@ -20004,6 +21368,7 @@
    "ko": "옆으로 누워 안기"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "lying on her side with both arms wrapped around her own chest",
   "variants": {
@@ -20073,8 +21438,7 @@
      "w900": "assets/line/w900/upper_U073_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U074",
@@ -20086,6 +21450,7 @@
    "ko": "누워 양손 가슴"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "lying on her back with both hands placed flat on her chest",
   "variants": {
@@ -20149,8 +21514,7 @@
      "w900": "assets/normal/w900/upper_U074_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U075",
@@ -20162,6 +21526,7 @@
    "ko": "누워 양팔 머리 위 젖히기"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "lying on her back with both arms stretched above her head, back arched",
   "variants": {
@@ -20216,8 +21581,7 @@
      "w900": "assets/normal/w900/upper_U075_front.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U076",
@@ -20229,6 +21593,7 @@
    "ko": "허리 숙여 한 손 아래로"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "bent forward at the waist with one hand reaching down in front of her",
   "variants": {
@@ -20298,8 +21663,7 @@
      "w900": "assets/normal/w900/upper_U076_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U077",
@@ -20311,6 +21675,7 @@
    "ko": "양손 등 뒤 어깨 높이"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "both hands reaching behind her back at shoulder-blade height",
   "variants": {
@@ -20356,8 +21721,7 @@
      "w900": "assets/line/w900/upper_U077_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U078",
@@ -20369,6 +21733,7 @@
    "ko": "한 손 가슴 위·한 손 아래"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "one hand placed flat over her chest, the other hand placed under her chest",
   "variants": {
@@ -20423,8 +21788,7 @@
      "w900": "assets/line/w900/upper_U078_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U079",
@@ -20436,6 +21800,7 @@
    "ko": "한 손 가슴 중앙·손가락 아래로"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "one hand placed flat over the center of her chest with fingers pointing down",
   "variants": {
@@ -20484,8 +21849,7 @@
      "w900": "assets/normal/w900/upper_U079_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  },
  {
   "id": "U080",
@@ -20497,6 +21861,7 @@
    "ko": "양손 가슴·고개 살짝 들기"
   },
   "category": "性感系",
+  "series": "upper",
   "rating": "suggestive",
   "description": "both hands placed flat on her chest, head tilted slightly upward",
   "variants": {
@@ -20527,7 +21892,6 @@
      "w900": "assets/line/w900/upper_U080_side.webp"
     }
    }
-  },
-  "series": "upper"
+  }
  }
 ]

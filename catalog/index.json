@@ -8,15 +8,15 @@
  },
  {
   "type": "character",
-  "count": 1526,
-  "general": 1526,
+  "count": 1530,
+  "general": 1530,
   "suggestive": 0,
   "file": "character.json"
  },
  {
   "type": "costume",
-  "count": 1804,
-  "general": 1360,
+  "count": 1817,
+  "general": 1373,
   "suggestive": 444,
   "file": "costume.json"
  },
@@ -36,8 +36,8 @@
  },
  {
   "type": "pose",
-  "count": 280,
-  "general": 107,
+  "count": 302,
+  "general": 129,
   "suggestive": 173,
   "file": "pose.json"
  },

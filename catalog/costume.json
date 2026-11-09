@@ -29040,6 +29040,292 @@
   }
  },
  {
+  "id": "custom_costume_male_001",
+  "type": "costume",
+  "name": "男士黑色礼服套装",
+  "names": {
+   "en": "Men’s black tuxedo ensemble",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男装",
+  "rating": "general",
+  "description": "Men’s black tuxedo ensemble",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/costume/custom/w300/custom_costume_male_001_front.webp",
+     "w900": "assets/costume/custom/w900/custom_costume_male_001_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_costume_male_002",
+  "type": "costume",
+  "name": "男士黑色针织 Polo",
+  "names": {
+   "en": "Men’s black ribbed knit polo",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男装",
+  "rating": "general",
+  "description": "Men’s black ribbed knit polo",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/costume/custom/w300/custom_costume_male_002_front.webp",
+     "w900": "assets/costume/custom/w900/custom_costume_male_002_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_costume_male_003",
+  "type": "costume",
+  "name": "男士米色休闲西装",
+  "names": {
+   "en": "Men’s beige casual suit",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男装",
+  "rating": "general",
+  "description": "Men’s beige casual suit",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/costume/custom/w300/custom_costume_male_003_front.webp",
+     "w900": "assets/costume/custom/w900/custom_costume_male_003_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_costume_male_004",
+  "type": "costume",
+  "name": "男士米色短背心与橄榄绿短裤",
+  "names": {
+   "en": "Men’s beige cropped tank and olive mesh shorts",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男装",
+  "rating": "general",
+  "description": "Men’s beige cropped tank and olive mesh shorts",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/costume/custom/w300/custom_costume_male_004_front.webp",
+     "w900": "assets/costume/custom/w900/custom_costume_male_004_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_costume_male_005",
+  "type": "costume",
+  "name": "男士白色背心与米白宽松长裤",
+  "names": {
+   "en": "White tank and ivory relaxed trousers",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男装",
+  "rating": "general",
+  "description": "White tank and ivory relaxed trousers",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/costume/custom/w300/custom_costume_male_005_front.webp",
+     "w900": "assets/costume/custom/w900/custom_costume_male_005_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_costume_male_006",
+  "type": "costume",
+  "name": "男士香槟缎面垂领围巾与阔腿裤",
+  "names": {
+   "en": "Champagne satin draped scarf top and wide-leg trousers",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男装",
+  "rating": "general",
+  "description": "Champagne satin draped scarf top and wide-leg trousers",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/costume/custom/w300/custom_costume_male_006_front.webp",
+     "w900": "assets/costume/custom/w900/custom_costume_male_006_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_costume_male_007",
+  "type": "costume",
+  "name": "男士奶白金链垂领阔腿连体裤",
+  "names": {
+   "en": "Ivory gold-chain draped wide-leg jumpsuit",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男装",
+  "rating": "general",
+  "description": "Ivory gold-chain draped wide-leg jumpsuit",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/costume/custom/w300/custom_costume_male_007_front.webp",
+     "w900": "assets/costume/custom/w900/custom_costume_male_007_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_costume_male_008",
+  "type": "costume",
+  "name": "男士格纹外套与米色阔腿牛仔裤",
+  "names": {
+   "en": "Men's plaid overshirt and beige wide-leg jeans",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男装",
+  "rating": "general",
+  "description": "Men's plaid overshirt and beige wide-leg jeans",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/costume/custom/w300/custom_costume_male_008_front.webp",
+     "w900": "assets/costume/custom/w900/custom_costume_male_008_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_costume_male_009",
+  "type": "costume",
+  "name": "男士浅蓝叠穿衬衫与白色阔腿裤",
+  "names": {
+   "en": "Men's layered blue shirts and white wide-leg pants",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男装",
+  "rating": "general",
+  "description": "Men's layered blue shirts and white wide-leg pants",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/costume/custom/w300/custom_costume_male_009_front.webp",
+     "w900": "assets/costume/custom/w900/custom_costume_male_009_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_costume_menswear_20261103_01",
+  "type": "costume",
+  "name": "亚麻米色西装与奶油白衬衫",
+  "names": {
+   "en": "Beige linen suit and cream shirt",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男装",
+  "rating": "general",
+  "description": "Beige linen suit and cream shirt",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/costume/custom/w300/custom_costume_menswear_20261103_01_front.webp",
+     "w900": "assets/costume/custom/w900/custom_costume_menswear_20261103_01_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_costume_menswear_20261103_02",
+  "type": "costume",
+  "name": "黑衬衫与米色阔腿西裤",
+  "names": {
+   "en": "Black shirt and beige wide-leg trousers",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男装",
+  "rating": "general",
+  "description": "Black shirt and beige wide-leg trousers",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/costume/custom/w300/custom_costume_menswear_20261103_02_front.webp",
+     "w900": "assets/costume/custom/w900/custom_costume_menswear_20261103_02_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_costume_menswear_20261103_03",
+  "type": "costume",
+  "name": "棕色条纹西装与姜黄阔腿裤",
+  "names": {
+   "en": "Brown pinstripe blazer and mustard wide-leg trousers",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男装",
+  "rating": "general",
+  "description": "Brown pinstripe blazer and mustard wide-leg trousers",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/costume/custom/w300/custom_costume_menswear_20261103_03_front.webp",
+     "w900": "assets/costume/custom/w900/custom_costume_menswear_20261103_03_front.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_costume_menswear_20261103_04",
+  "type": "costume",
+  "name": "全黑西装与银色项链",
+  "names": {
+   "en": "All-black suit with silver necklace",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男装",
+  "rating": "general",
+  "description": "All-black suit with silver necklace",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "w300": "assets/costume/custom/w300/custom_costume_menswear_20261103_04_front.webp",
+     "w900": "assets/costume/custom/w900/custom_costume_menswear_20261103_04_front.webp"
+    }
+   }
+  }
+ },
+ {
   "id": "C001",
   "type": "costume",
   "name": "上衣下裳·蔽膝（黄褐）",

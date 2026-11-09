@@ -35976,6 +35976,75 @@
   }
  },
  {
+  "id": "custom_character_generated_20261104_east_asian_male",
+  "type": "character",
+  "name": "男性 · 黑发中分正面肖像",
+  "names": {
+   "en": "Male · Black-haired frontal portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性人脸",
+  "rating": "general",
+  "description": "Male adult, photographic frontal head-and-shoulders portrait, black hair with center part. Medium-length black hair. Fictional AI character reference. Preserve face, hairstyle, hair color and skin tone, without adopting the reference pose.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_generated_20261104_east_asian_male.png",
+     "w300": "assets/character/custom/thumbs/custom_character_generated_20261104_east_asian_male.webp",
+     "w900": "assets/character/w900/custom_character_generated_20261104_east_asian_male.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_import_20261104_wet_hair_male",
+  "type": "character",
+  "name": "阳光下的湿发凝视",
+  "names": {
+   "en": "Wet-haired gaze in sunlight",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性人脸",
+  "rating": "general",
+  "description": "Male adult, photographic frontal head-and-shoulders portrait, wet hair, gaze toward camera, warm sunlight. Short dark hair. Fictional AI character reference. Preserve face, hairstyle, hair color and skin tone, without adopting the reference pose.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_import_20261104_wet_hair_male.png",
+     "w300": "assets/character/custom/thumbs/custom_character_import_20261104_wet_hair_male.webp",
+     "w900": "assets/character/w900/custom_character_import_20261104_wet_hair_male.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_import_20261108_soft_bright_male",
+  "type": "character",
+  "name": "柔和提亮的男士肖像",
+  "names": {
+   "en": "Softly brightened male portrait",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性人脸",
+  "rating": "general",
+  "description": "Male adult, photographic frontal head-and-shoulders portrait, softly brightened, gentle expression. Short dark hair. Fictional AI character reference. Preserve face, hairstyle, hair color and skin tone, without adopting the reference pose.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_import_20261108_soft_bright_male.png",
+     "w300": "assets/character/custom/thumbs/custom_character_import_20261108_soft_bright_male.webp",
+     "w900": "assets/character/w900/custom_character_import_20261108_soft_bright_male.webp"
+    }
+   }
+  }
+ },
+ {
   "id": "custom_character_male_001",
   "type": "character",
   "name": "男性 · 清爽短发",
@@ -35984,7 +36053,7 @@
    "ja": null,
    "ko": null
   },
-  "category": "人脸",
+  "category": "男性人脸",
   "series": "男性人物参考 · 六种风格",
   "rating": "general",
   "description": "Clean short hair. Male adult photographic frontal head-and-shoulders portrait, pale blue-gray background. Fictional AI character reference. Preserve face, hairstyle, hair color and skin tone, without adopting the reference pose.",
@@ -36008,7 +36077,7 @@
    "ja": null,
    "ko": null
   },
-  "category": "人脸",
+  "category": "男性人脸",
   "series": "男性人物参考 · 六种风格",
   "rating": "general",
   "description": "Soft center part. Male adult photographic frontal head-and-shoulders portrait, pale blue-gray background. Fictional AI character reference. Preserve face, hairstyle, hair color and skin tone, without adopting the reference pose.",
@@ -36032,7 +36101,7 @@
    "ja": null,
    "ko": null
   },
-  "category": "人脸",
+  "category": "男性人脸",
   "series": "男性人物参考 · 六种风格",
   "rating": "general",
   "description": "Athletic buzz cut. Male adult photographic frontal head-and-shoulders portrait, pale blue-gray background. Fictional AI character reference. Preserve face, hairstyle, hair color and skin tone, without adopting the reference pose.",
@@ -36056,7 +36125,7 @@
    "ja": null,
    "ko": null
   },
-  "category": "人脸",
+  "category": "男性人脸",
   "series": "男性人物参考 · 六种风格",
   "rating": "general",
   "description": "Mature professional. Male adult photographic frontal head-and-shoulders portrait, pale blue-gray background. Fictional AI character reference. Preserve face, hairstyle, hair color and skin tone, without adopting the reference pose.",
@@ -36080,7 +36149,7 @@
    "ja": null,
    "ko": null
   },
-  "category": "人脸",
+  "category": "男性人脸",
   "series": "男性人物参考 · 六种风格",
   "rating": "general",
   "description": "Creative soft curls. Male adult photographic frontal head-and-shoulders portrait, pale blue-gray background. Fictional AI character reference. Preserve face, hairstyle, hair color and skin tone, without adopting the reference pose.",
@@ -36104,7 +36173,7 @@
    "ja": null,
    "ko": null
   },
-  "category": "人脸",
+  "category": "男性人脸",
   "series": "男性人物参考 · 六种风格",
   "rating": "general",
   "description": "Long hair, calm presence. Male adult photographic frontal head-and-shoulders portrait, pale blue-gray background. Fictional AI character reference. Preserve face, hairstyle, hair color and skin tone, without adopting the reference pose.",
@@ -36115,6 +36184,29 @@
      "orig": "assets/character/custom/full/custom_character_male_006.png",
      "w300": "assets/character/custom/thumbs/custom_character_male_006.webp",
      "w900": "assets/character/w900/custom_character_male_006.webp"
+    }
+   }
+  }
+ },
+ {
+  "id": "custom_character_natural_centerpart_male_20261104",
+  "type": "character",
+  "name": "男性 · 自然中分黑发身份参考",
+  "names": {
+   "en": "Male · Natural center-part black-haired identity reference",
+   "ja": null,
+   "ko": null
+  },
+  "category": "男性人脸",
+  "rating": "general",
+  "description": "Male adult, photographic frontal head-and-shoulders portrait, natural center-part black hair, identity reference. Medium-length black hair. Fictional AI character reference. Preserve face, hairstyle, hair color and skin tone, without adopting the reference pose.",
+  "source": "custom",
+  "variants": {
+   "front": {
+    "image": {
+     "orig": "assets/character/custom/full/custom_character_natural_centerpart_male_20261104.png",
+     "w300": "assets/character/custom/thumbs/custom_character_natural_centerpart_male_20261104.webp",
+     "w900": "assets/character/w900/custom_character_natural_centerpart_male_20261104.webp"
     }
    }
   }
@@ -36152,7 +36244,7 @@
    "ja": null,
    "ko": null
   },
-  "category": "人脸",
+  "category": "男性人脸",
   "series": "多地区人物参考 · 21 张",
   "rating": "general",
   "description": "Australia Male adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. short golden-brown slightly tousled hair; green-blue eyes; light sun-kissed beige skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
@@ -36200,7 +36292,7 @@
    "ja": null,
    "ko": null
   },
-  "category": "人脸",
+  "category": "男性人脸",
   "series": "多地区人物参考 · 21 张",
   "rating": "general",
   "description": "Brazil Male adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. short dark-brown tight curls with a low taper; brown eyes; medium golden-brown skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
@@ -36248,7 +36340,7 @@
    "ja": null,
    "ko": null
   },
-  "category": "人脸",
+  "category": "男性人脸",
   "series": "多地区人物参考 · 21 张",
   "rating": "general",
   "description": "Canada Male adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. short sandy-blonde hair, textured swept-back top; blue-grey eyes; fair peach skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
@@ -36296,7 +36388,7 @@
    "ja": null,
    "ko": null
   },
-  "category": "人脸",
+  "category": "男性人脸",
   "series": "多地区人物参考 · 21 张",
   "rating": "general",
   "description": "Germany Male adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. short ash-blonde hair, neat textured crop; grey-green eyes; fair neutral skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
@@ -36344,7 +36436,7 @@
    "ja": null,
    "ko": null
   },
-  "category": "人脸",
+  "category": "男性人脸",
   "series": "多地区人物参考 · 21 张",
   "rating": "general",
   "description": "France Male adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. short dark-chestnut hair with a natural textured side part; hazel eyes; light warm beige skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
@@ -36392,7 +36484,7 @@
    "ja": null,
    "ko": null
   },
-  "category": "人脸",
+  "category": "男性人脸",
   "series": "多地区人物参考 · 21 张",
   "rating": "general",
   "description": "India Male adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. short black thick wavy hair, brushed loosely upward; dark brown eyes; medium-deep warm brown skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
@@ -36440,7 +36532,7 @@
    "ja": null,
    "ko": null
   },
-  "category": "人脸",
+  "category": "男性人脸",
   "series": "多地区人物参考 · 21 张",
   "rating": "general",
   "description": "Japan Male adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. straight black short layered hair with a relaxed curtain fringe; dark brown eyes; light neutral beige skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
@@ -36512,7 +36604,7 @@
    "ja": null,
    "ko": null
   },
-  "category": "人脸",
+  "category": "男性人脸",
   "series": "多地区人物参考 · 21 张",
   "rating": "general",
   "description": "Russia Male adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. short medium-brown hair with a subtle side part; grey-blue eyes; fair cool-neutral skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
@@ -36560,7 +36652,7 @@
    "ja": null,
    "ko": null
   },
-  "category": "人脸",
+  "category": "男性人脸",
   "series": "多地区人物参考 · 21 张",
   "rating": "general",
   "description": "UK Male adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. short dark-blonde hair, naturally textured side part; green-hazel eyes; fair rosy skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
@@ -36608,7 +36700,7 @@
    "ja": null,
    "ko": null
   },
-  "category": "人脸",
+  "category": "男性人脸",
   "series": "多地区人物参考 · 21 张",
   "rating": "general",
   "description": "USA Male adult age 28, photographic frontal head-and-shoulders portrait, natural smile, pale grey-green background, ivory shirt. short dark-brown wavy hair, clean tapered sides; brown eyes; medium warm tan skin. Fictional AI character. Editorial country group only, not a real nationality or representative national face. Preserve face, hairstyle, hair color and skin tone.",
